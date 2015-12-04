@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               My Quiet Life
+tagline:             'My Quiet Life'
+description:         'What we honor as prudence in our elders is simply panic in action.'
+url:                 http://quietlife.net
+baseurl: /
+paginate:            5
+url: "http://quietlife.net" # the base hostname & protocol for your site
+destination: /var/www/quietlife.net/
+
+# About/contact
+author:
+  name:              Chris Wage
+  url:               https://twitter.com/cwage
+  email:             cwage@quietlife.net
+
+# Custom vars
+version:             1.0.0

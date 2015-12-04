@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/cwage
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://quietlife.net
+  * I am cwage (https://keybase.io/cwage) on keybase.
+  * I have a public key with fingerprint 338F C17E 2DE9 32AC FC9C  45F2 9E8C 92EA 8BA5 B061
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "338fc17e2de932acfc9c45f29e8c92ea8ba5b061",
+            "host": "keybase.io",
+            "key_id": "9e8c92ea8ba5b061",
+            "kid": "01016054daa41bb4a578bcd48d6192dabc3da51d74a0a9bc720c1c6fb6ab6cd4ebc20a",
+            "uid": "cab749794bd1529e2be544525c27d500",
+            "username": "cwage"
+        },
+        "revoke": {
+            "sig_ids": [
+                "738d0a224ce440a55f275e0f2f85fe7a3cbf372248a9d1267d7db0c791299e8e0f"
+            ]
+        },
+        "service": {
+            "hostname": "quietlife.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1426627296,
+    "expire_in": 157680000,
+    "prev": "9a655fbcd743670e54d37255a0b1505c1d77b2ef217fa1b8e4cb2ce5f89f01fb",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkn1QFVUYxi+XACVDRgElicnNGK6As997l7FMqQwjLMX8QKNzzp6FBbp7vwku
+GlAMAzKl+JFgWpYwxQyCzkDKR9AAjkiUYOOYKTYNU2hjgOBHZNhZxv5r/zmz533O
+732f55w9T/ibzH5HK6tu7q5tAn79N6Bp05yaER8FdSWfSvRROXh2UTVbJnbanZrN
+TSVSHGdVESNhVsEyxwKkIhnxgsrK2IpkFgMrBAKkRYaKp7J0l3GCYCBw4RWaTvbI
+T4amkN3/0efMFmiGZkRa4BUAeAZCHgiSFSKFtyoiI7MKgIhTgMAoEg9oIEMksTRi
+kKhCEUCR6DBELA0IzjOLQwBKvCzJPFQYgUzJQizwvMAKiJUUgaYNoQs7beAdbKjz
+QCamdsZTTuzVc7Bh36VlkoldVGI6JXFWhQYsyyPM8zQQiG1JwLTKqlZBxRLgEFQ5
+idStQFYYVpQUSYE0kmSGlYlfoqR2EDZp59XQLNyI6FFrh0fD7lxNxSts2E2msjt1
+t470XFLKcrvticZU7ny7Ic3DMOMRJANqNoVcEDngxU6XptuoRIYokVszqAzPiiIr
+sbIYT+F37ZoTZ2iGQpBEK00+ow32GtcBRGG7oJKgJZ4TJZqEpBArggBoyAi0gEjg
+EmSxyjKSChhoxTyCLMKCapVVmlEhZfhy2HQCJ1Q3yCRQEp0NuD1OkmhwuTnqMZOf
+2RQYYDZemSl4buh/Ty9GCzXV77tMTfbtj83+ynTwxKpbL/btOl/29tdFH0yOLTiZ
+8G12y+3IEku71hVVpC/nYlISr6fnDawvK64ubL6aeip+46WXlw5yJYvnFzeXfpPa
+/3thi63DMrNIbTrQQRX4NpTu2bw6dX2745ilDveu5gZaRraFHPEDEc9HHNcbFkxx
+VIp0+sj9sWz2XM3P6+5utVeHqVOensHpifLqsENDSeWXz3f/AuISzD7tOX10Zdhw
+PvNWrOX6k09Thx6In1zsb/w+yGS55ovyr5X44La0VPPD4o3HEKyv3TuUV3Mj3J4U
+eLbDV5e+ZPJm38K2v3bdD4qIq7RmDsU01n5s+bD3t/yzJ39Ydk6dsQycTiu7OOUL
++qdgyb1Lnjpn14UvY/MudF+Jnmip+ChyXnrBjxvCGq+sfObO8ge5Xzjuwp4hsH3t
+zODhkTeC50WHmk+wwXEhfwaMRl+bfrhUf8lxi17ni29igv8oLUjakvbsTmbihe4z
+pw5/V95eqL+yZVxNqZjr713sWYbeNDFrGuv2b5sfkPx+RrS5yBsVOqS1Pf56cmNz
+5+T4e50ofaxtetHBZK9vc3Nn9/T0a447zJlu09asVQF/7+Oc40lzerB7TderreFV
+jgMNnyd4j7e2/rQ3PPBXPTmu92pKyO7h+qNKSUIVGq26VzT+aWVTEdhERdJqVMVn
+t5/asdDeOVzfsPZf
+=bDv1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cwage
+
+==================================================================
+
