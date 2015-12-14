@@ -10,6 +10,7 @@ description:         'What we honor as prudence in our elders is simply panic in
 url:                 http://quietlife.net
 baseurl: /
 paginate:            5
+gems: [jekyll-paginate]
 url: "http://quietlife.net" # the base hostname & protocol for your site
 destination: /var/www/quietlife.net/
 

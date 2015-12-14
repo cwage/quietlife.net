@@ -23,7 +23,7 @@ tags:
   - steak
 ---
 <div class="figure">
-  <a href="http://www.flickr.com/photos/cwage/374084442/" title="Day 29 by cwage, on Flickr"><img src="http://farm1.static.flickr.com/165/374084442_8090e3f210_m.jpg" width="240" height="160" alt="Day 29" /> 
+  <a href="http://www.flickr.com/photos/cwage/374084442/" title="Day 29 by cwage, on Flickr"><img src="http://farm1.static.flickr.com/165/374084442_8090e3f210_m.jpg" width="240" height="160" alt="Day 29" /></a>
   
   <p>
     How <i>not</i> to fry a steak.
