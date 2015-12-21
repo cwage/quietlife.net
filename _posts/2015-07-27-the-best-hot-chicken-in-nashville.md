@@ -28,12 +28,12 @@ Ranked in order from worst to best:
   </li>
   
   <li>
-    Helen's.<br /> I haven't been to Helen's since they moved to Jefferson, but when I tried it at the food truck it was not great. The chicken was well-fried, but the sauce was clearly made with oil (possibly their frying oil), which is something you see cropping up in recipes recently. I do not approve. There wasn't a lot of spice, and it tasted like rancid oil. I'll probably give them another chance, though, now that they have an actual brick and mortar location.</p>
-  </li>
-  <li>
     Party Fowl. <p>
       Party Fowl is a newer contender. Their hot chicken is not mindblowingly good or hot, but it's tasty. They also have a huge menu of Other Stuff, so it's a good option for dining with other people who don't care for the heat.
     </p>
+  </li>
+  <li>
+    Helen's. <p> I haven't been to Helen's since they moved to Jefferson, but when I tried it at the food truck it was not great. The chicken was well-fried, but the sauce was clearly made with oil (possibly their frying oil), which is something you see cropping up in recipes recently. I do not approve. There wasn't a lot of spice, and it tasted like rancid oil. I'll probably give them another chance, though, now that they have an actual brick and mortar location. <b>UPDATE: 12/21/2015</b> -- tried Helen's again now that they moved to Jefferson street. Possibly the move to a permanent location has improved quality. I got a leg quarter, "hella lot" (their hottest). It was pretty decently hot, maybe somewhere between Hattie B's Hot and PepperFire's Medium. I could be wrong but the sauce had a hint of tomato in it -- tasted a bit more like a more traditional tomato-ey hot wing sauce. Still not good enough to break the top 4, but good enough to best Party Fowl.</p>
   </li>
   
   <li>
