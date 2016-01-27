@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cwage
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://quietlife.net
+  * I am cwage (https://keybase.io/cwage) on keybase.
+  * I have a public key ASBPFGujCuyI15H5ds4MXoB0t_AHHlsZLQlNsqanPuF-Gwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101eb613adc667389dbc421b02047ffd57c4e4a093b73d3f0b0f65a2454385ca63f0a",
+            "host": "keybase.io",
+            "kid": "01204f146ba30aec88d791f976ce0c5e8074b7f0071e5b192d094db2a6a73ee17e1b0a",
+            "uid": "cab749794bd1529e2be544525c27d500",
+            "username": "cwage"
+        },
+        "service": {
+            "hostname": "quietlife.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1453872013,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1453871856,
+        "hash": "7ec602235340653e3e011bc2aa9379d88bbdb48e731916e66c07a55cbc6cfb2b05d1bd3e539fc80450f4e47c4bec6a5f8eaf5ec9fdaef65af2217570b6255cbc",
+        "seqno": 356190
+    },
+    "prev": "dd6b7d34279ec3de609039aa3efacb5b521df1ce0fd5456cf5e60827de73801d",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTxRrowrsiNeR+XbODF6AdLfwBx5bGS0JTbKmpz7hfhsKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZWI2MTNhZGM2NjczODlkYmM0MjFiMDIwNDdmZmQ1N2M0ZTRhMDkzYjczZDNmMGIwZjY1YTI0NTQzODVjYTYzZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGYxNDZiYTMwYWVjODhkNzkxZjk3NmNlMGM1ZTgwNzRiN2YwMDcxZTViMTkyZDA5NGRiMmE2YTczZWUxN2UxYjBhIiwidWlkIjoiY2FiNzQ5Nzk0YmQxNTI5ZTJiZTU0NDUyNWMyN2Q1MDAiLCJ1c2VybmFtZSI6ImN3YWdlIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJxdWlldGxpZmUubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC45In0sImN0aW1lIjoxNDUzODcyMDEzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTM4NzE4NTYsImhhc2giOiI3ZWM2MDIyMzUzNDA2NTNlM2UwMTFiYzJhYTkzNzlkODhiYmRiNDhlNzMxOTE2ZTY2YzA3YTU1Y2JjNmNmYjJiMDVkMWJkM2U1MzlmYzgwNDUwZjRlNDdjNGJlYzZhNWY4ZWFmNWVjOWZkYWVmNjVhZjIyMTc1NzBiNjI1NWNiYyIsInNlcW5vIjozNTYxOTB9LCJwcmV2IjoiZGQ2YjdkMzQyNzllYzNkZTYwOTAzOWFhM2VmYWNiNWI1MjFkZjFjZTBmZDU0NTZjZjVlNjA4MjdkZTczODAxZCIsInNlcW5vIjoyMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDLnyJ/yxxR+IrQICcijkJMgcLzgUtEBQ3h85iYv7X5zjqBFMgv5d9hA2utSC09ArKa2Fah5/nz67OeGZTgZswPqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cwage
+
+==================================================================
+
