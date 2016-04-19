@@ -12,7 +12,7 @@ baseurl: /
 paginate:            5
 gems: [jekyll-paginate]
 url: "http://quietlife.net" # the base hostname & protocol for your site
-include: [".well-known"]
+include: [".well-known", "images"]
 
 # About/contact
 author:

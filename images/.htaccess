@@ -1,0 +1,10 @@
+#SetEnvIf Referer "^[^\.]+chris.quietlife.net.*" locally_linked=1
+#SetEnvIf Remote_Addr 10.10.15.* locally_linked=1
+#<FilesMatch "\.(gif|png|jpe?g)$">
+#	Order Allow,Deny
+#	Allow from env=locally_linked
+#</FilesMatch>
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} ^.*disboards.com.*$
+RewriteCond %{REQUEST_URI} !^.*awesomeme.*$
+RewriteRule ^.*$	/images/awesomeme.jpg [L]
