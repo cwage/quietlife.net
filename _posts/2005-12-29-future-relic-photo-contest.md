@@ -12,7 +12,7 @@ categories:
 tags:
   - misc
 ---
-[<img src="http://chris.quietlife.net/images/XLarge-phantom_top.jpg" width="160" height="184" alt="future relic t-shirt" style="float: right; padding-left: 10px;" />][1]Check it out, [Future Relic][2] is having a [photo contest][1], and I am shamelessly pimping it. Win a t-shirt, or just rub your friends' noses in your victory:
+[<img src="http://quietlife.net/images/XLarge-phantom_top.jpg" width="160" height="184" alt="future relic t-shirt" style="float: right; padding-left: 10px;" />][1]Check it out, [Future Relic][2] is having a [photo contest][1], and I am shamelessly pimping it. Win a t-shirt, or just rub your friends' noses in your victory:
 
 > RULES:  
 > 1. Take a photo

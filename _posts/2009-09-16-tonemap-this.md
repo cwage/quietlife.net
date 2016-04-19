@@ -30,7 +30,7 @@ But lately, I see more and more people using this effect on normal images -- por
 
 I see it more and more -- I was just at the future50 awards and fully 1/4th of the images submitted had this weird effect applied. Take this image, for example, of the lovely and talented Yvonne, that I saw on facebook:
 
-<img src="http://chris.quietlife.net/images/yvonne.jpg" width="402" height="604" alt="yvonne" />
+<img src="http://quietlife.net/images/yvonne.jpg" width="402" height="604" alt="yvonne" />
 
 This image has been tonemapped. It looks WEIRD. Stop doing this. It was a perfectly fine picture beforehand. Stop making your subjects look like mannequins. Thanks.
 

@@ -12,7 +12,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/outkast.jpg" style="float: left; padding-right: 10px; border: 0px;" />][1]This release isn't one album. You probably know that. It's two albums packaged together. Andre 3000's solo effort "The Love Below" and Big Boi matching it with his "Speakerboxxx". Let's talk about what we expect from these albums. We have a tendency to polarize duos. Brains and Braun. Pinky and the Brain. From what I understand, most expected Andre 3000's effort to be the Brains to Big Boi's solid braun. Andre's intellectualism would lead him into an experimental departure highlighting him as the real brains behind the phenomenon of Outkast. Or Big Boi's irreverent attitude and big beat enthusiasm would demonstrate that he's the driving force behind Outkast. Maybe. Whatever.
+[<img src="http://quietlife.net/images/outkast.jpg" style="float: left; padding-right: 10px; border: 0px;" />][1]This release isn't one album. You probably know that. It's two albums packaged together. Andre 3000's solo effort "The Love Below" and Big Boi matching it with his "Speakerboxxx". Let's talk about what we expect from these albums. We have a tendency to polarize duos. Brains and Braun. Pinky and the Brain. From what I understand, most expected Andre 3000's effort to be the Brains to Big Boi's solid braun. Andre's intellectualism would lead him into an experimental departure highlighting him as the real brains behind the phenomenon of Outkast. Or Big Boi's irreverent attitude and big beat enthusiasm would demonstrate that he's the driving force behind Outkast. Maybe. Whatever.
 
 Neither of these are the case. What we have, here, are two unique albums, worlds apart, that together represent very well what we know of the Outkast universe. Both are spectacular. It wouldn't be fair to review these albums strictly in comparison with one another. But, they were packaged together, so comparison is inevitable. I'll do both.  
 <!--more-->
@@ -20,7 +20,7 @@ Neither of these are the case. What we have, here, are two unique albums, worlds
   
 **The Love Below**  
 **Andre 3000**  
-<img src="http://chris.quietlife.net/images/andre3000-real.jpg" style="float: right; padding-left: 10px; border: 0px;" />
+<img src="http://quietlife.net/images/andre3000-real.jpg" style="float: right; padding-left: 10px; border: 0px;" />
 
 This is one of those albums that makes a mockery of your local music store's genre categorization. Does it go in "hip-hop"? No, he does more singing than rapping -- it must go in "pop rock". But, there are more jazz instrumentals than guitar solos. Wait, he's black. It must go in "R&B". Well, not really. What section should it go in? I don't know. I vote for the "Really Good Shit" section.
 
@@ -32,7 +32,7 @@ You could do a lot of comparing to Prince, but I think that's only for lack of a
 
 When Andre 3000 **does** rhyme on this album you wonder why he ever quit. It's tight, fast, and furious. Blink and you'll miss it. Also, I am tempted to say I catch a bit of influence in his vocal meter these days from his work with Slick Rick, but maybe that's just my imagination.
 
-<img src="http://chris.quietlife.net/images/bigboi.jpg" style="float: left; padding-right: 10px; border: 0px;" />  
+<img src="http://quietlife.net/images/bigboi.jpg" style="float: left; padding-right: 10px; border: 0px;" />  
 **Speakerboxxx**  
 **Big Boi**
 

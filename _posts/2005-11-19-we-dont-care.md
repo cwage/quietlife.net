@@ -14,7 +14,7 @@ tags:
   - misc
   - politics
 ---
-<img src="http://chris.quietlife.net/images/phonecompany.jpg" width="210" height="141" alt="Lily Tomlin" />
+<img src="http://quietlife.net/images/phonecompany.jpg" width="210" height="141" alt="Lily Tomlin" />
 
 "We don't care. We don't have to. We're the phone company."  
 -- Lily Tomlin

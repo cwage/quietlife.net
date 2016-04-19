@@ -16,7 +16,7 @@ tags:
   - news
   - peter-boyle
 ---
-<img src="http://chris.quietlife.net/images/peterboylefrankenstein.jpg" width="235" height="207" alt="peter boyle as young frankenstein" />
+<img src="http://quietlife.net/images/peterboylefrankenstein.jpg" width="235" height="207" alt="peter boyle as young frankenstein" />
 
 CNN [reports on][1] the death of Peter Boyle, who is **not** merely "of Everybody Loves Raymond". This reminds me of the trailer for some movie with [Eugene Levy][2], and they were like "and starring American Pie's Eugene Levy!!!"
 

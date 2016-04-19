@@ -23,7 +23,7 @@ tags:
 
 Behold, the new insignia of the Wales-based "Special Forces Support Group":
 
-<img src="http://chris.quietlife.net/images/sfsg_insignia.jpg" width="203" height="203" alt="SFSG insignia" />
+<img src="http://quietlife.net/images/sfsg_insignia.jpg" width="203" height="203" alt="SFSG insignia" />
 
 *We will never have Fascism in England; no Englishman will dress up, not even for a revolution.* -- William Bolitho
 

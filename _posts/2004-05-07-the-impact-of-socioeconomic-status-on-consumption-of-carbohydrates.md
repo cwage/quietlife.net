@@ -2333,9 +2333,9 @@ The numbers above only compare foods that contain carbohydrates and have low car
   </tr>
 </table>
 
-<img src="http://chris.quietlife.net/images/meat_vs_pasta_calorie.png" alt="Image of Meat vs Pasta by Calorie" width="573" height="374" border="1" />
+<img src="http://quietlife.net/images/meat_vs_pasta_calorie.png" alt="Image of Meat vs Pasta by Calorie" width="573" height="374" border="1" />
 
-<img src="http://chris.quietlife.net/images/meat_vs_pasta_weight.png" alt="Image of Meat vs Pasta by Weight" width="523" height="374" border="1" />
+<img src="http://quietlife.net/images/meat_vs_pasta_weight.png" alt="Image of Meat vs Pasta by Weight" width="523" height="374" border="1" />
 
 Of the four types of meat compared to pasta, all four proved to be more expensive per calorie than pasta. On average, meat was 622% the cost of pasta per calorie, which chicken breast in particular being over 13 times more expensive.
 

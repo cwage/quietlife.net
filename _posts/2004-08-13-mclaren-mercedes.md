@@ -12,9 +12,9 @@ categories:
 tags:
   - cars
 ---
-<img src="http://chris.quietlife.net/images/mclaren_mercedes_bay.jpg" width="450" height="275" alt="mclaren Mercedes SLR engine bay" />
+<img src="http://quietlife.net/images/mclaren_mercedes_bay.jpg" width="450" height="275" alt="mclaren Mercedes SLR engine bay" />
 
-Now that is a work of art. McLaren and Mercedes have teamed up to bring us the [2005 Mercedes-Benz SLR McLaren][1]. I like it. It's a <a href="http://chris.quietlife.net/images/mclaren_mercedes_front.html" onclick="window.open('http://chris.quietlife.net/images/mclaren_mercedes_front.html','popup','width=450,height=275,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">good looking car</a>. It looks a little weird from the <a href="http://chris.quietlife.net/images/mclaren_mercedes_side.html" onclick="window.open('http://chris.quietlife.net/images/mclaren_mercedes_side.html','popup','width=450,height=275,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">side</a>, though.
+Now that is a work of art. McLaren and Mercedes have teamed up to bring us the [2005 Mercedes-Benz SLR McLaren][1]. I like it. It's a <a href="http://quietlife.net/images/mclaren_mercedes_front.html" onclick="window.open('http://quietlife.net/images/mclaren_mercedes_front.html','popup','width=450,height=275,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">good looking car</a>. It looks a little weird from the <a href="http://quietlife.net/images/mclaren_mercedes_side.html" onclick="window.open('http://quietlife.net/images/mclaren_mercedes_side.html','popup','width=450,height=275,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">side</a>, though.
 
 Relevant numbers:  
 <!--more-->

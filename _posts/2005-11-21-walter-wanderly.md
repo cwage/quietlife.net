@@ -17,7 +17,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/martini-dragqueen.jpg" border="0" width="150" height="142" alt="martini drag queen?" style="float: right; padding-left: 10px" />][1]\[http://www.place.org/~cwage/sounds/Walter\_Wanderly\_Girl\_From\_Ipanema.mp3\] (The Girl from Ipanema)
+[<img src="http://quietlife.net/images/martini-dragqueen.jpg" border="0" width="150" height="142" alt="martini drag queen?" style="float: right; padding-left: 10px" />][1]\[http://www.place.org/~cwage/sounds/Walter\_Wanderly\_Girl\_From\_Ipanema.mp3\] (The Girl from Ipanema)
 
 \[http://www.place.org/~cwage/sounds/Walter\_Wanderly\_Wave.mp3\] (Wave)
 

@@ -18,7 +18,7 @@ The sad saga of MG Rover's demise continues. In April, MG Rover, formerly [Brita
 
 <!--more-->
 
-<img src="http://chris.quietlife.net/images/roverlot.jpg" width="234" height="155" alt="image of a lot full of MG Rover autos" />
+<img src="http://quietlife.net/images/roverlot.jpg" width="234" height="155" alt="image of a lot full of MG Rover autos" />
 
 Slate also ran an interesting article exploring the possibility of MG Rover being [absorbed by the Axis of Evil][5].
 

@@ -21,7 +21,7 @@ tags:
   - politics
 ---
 <center>
-  <img src="http://chris.quietlife.net/images/663px-Neo-Laffer-Curve.svg.png" width="354" height="283" alt="neo laffer curve" />
+  <img src="http://quietlife.net/images/663px-Neo-Laffer-Curve.svg.png" width="354" height="283" alt="neo laffer curve" />
 </center>
 
 Dr. Arthur Laffer is speaking this Tuesday, Oct. 10, 4:15 – 5:30 p.m., at the Renaissance Hotel in the Music City Ballroom.

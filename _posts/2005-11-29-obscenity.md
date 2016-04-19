@@ -16,7 +16,7 @@ tags:
 ---
 This is devoted to everyone [here][1]:
 
-<img src="http://chris.quietlife.net/images/dinner.jpg" width="204" height="273" alt="dinner is served" />
+<img src="http://quietlife.net/images/dinner.jpg" width="204" height="273" alt="dinner is served" />
 
 If you are offended by this, it must really suck to be you. It must especially suck to be [this person][2], who had this to say about a woman breastfeeding her kid:
 
@@ -26,7 +26,7 @@ There's something so truly, deeply, honestly and hilariously ironic about someon
 
 <!--more-->
 
-<img src="http://chris.quietlife.net/images/screwyou.jpg" width="285" height="392" alt="screw you" />
+<img src="http://quietlife.net/images/screwyou.jpg" width="285" height="392" alt="screw you" />
 
 Screw you.
 

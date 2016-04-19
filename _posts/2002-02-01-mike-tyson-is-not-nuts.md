@@ -17,5 +17,5 @@ tags:
 Mike Tyson is not nuts?  
 ][2]
 
- [1]: http://chris.quietlife.net/images/tyson2.jpg
+ [1]: http://quietlife.net/images/tyson2.jpg
  [2]: http://www.8bm.com/diatribes/volume01/diatribes013/diatribes250-270/diatribes265.htm

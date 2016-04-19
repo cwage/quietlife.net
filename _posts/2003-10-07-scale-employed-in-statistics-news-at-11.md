@@ -27,5 +27,5 @@ Okay. Cut what crap? Where's the dishonesty? What are we dealing with?
  [1]: http://saysuncle.com/archives/001097.html#001097
  [2]: http://www.fecesflingingmonkey.com/1003/1003.htm#a100603
  [3]: http://www.ojp.usdoj.gov/bjs/homicide/ageracesex.htm
- [4]: http://chris.quietlife.net/images/oars.gif
+ [4]: http://quietlife.net/images/oars.gif
  [5]: http://www.fecesflingingmonkey.com/

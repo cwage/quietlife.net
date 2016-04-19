@@ -12,7 +12,7 @@ categories:
 tags:
   - books
 ---
-[<img src="http://chris.quietlife.net/images/hideous_dream.jpg" width="60" height="90" style="float: left; padding-right: 8px;" alt="Hideous Dream Cover" />][1]Title: [Hideous Dream][1]  
+[<img src="http://quietlife.net/images/hideous_dream.jpg" width="60" height="90" style="float: left; padding-right: 8px;" alt="Hideous Dream Cover" />][1]Title: [Hideous Dream][1]  
 Author: [Stan Goff][2]  
 Publisher: Soft Skull Press  
 ISBN: 1887128638

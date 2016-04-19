@@ -12,7 +12,7 @@ categories:
 tags:
   - politics
 ---
-<img src="http://chris.quietlife.net/images/haroldford.jpg" height="117" width="175" alt="image of harold ford" style="float: left; padding-right: 8px;" />The [Nashville Scene][1] had [an article][2] last week about [Harold Ford][3]. Ford is being hailed already as a potential choice of opponent for [Bill Frist][4]'s vacant seat in 2006. The article is very lauditory of Ford, painting him as a sort of super-Democrat. However, it's also fairly irresponsible and in the end, to me, paints a very unflattering portrait of Harold Ford.
+<img src="http://quietlife.net/images/haroldford.jpg" height="117" width="175" alt="image of harold ford" style="float: left; padding-right: 8px;" />The [Nashville Scene][1] had [an article][2] last week about [Harold Ford][3]. Ford is being hailed already as a potential choice of opponent for [Bill Frist][4]'s vacant seat in 2006. The article is very lauditory of Ford, painting him as a sort of super-Democrat. However, it's also fairly irresponsible and in the end, to me, paints a very unflattering portrait of Harold Ford.
 
 Let's start with a high-level summary of Ford's place in the political spectrum:  
 <!--more-->

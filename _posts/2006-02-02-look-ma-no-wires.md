@@ -30,7 +30,7 @@ This, though, is not a sufficient explanation. To really understand what this is
 
 To understand the issue, we first need to start with a picture of the electromagnetic spectrum:
 
-<a href="http://chris.quietlife.net/images/spectrum.gif" onClick="window.open('http://chris.quietlife.net/images/spectrum.gif', null, 'width=583,height=210,status=yes,toolbar=no,menubar=no,location=no'); return false;"><img src="http://chris.quietlife.net/images/spectrum_sm.gif" width="243" height="88" alt="radio spectrum graph" /><br /> (Click to Enlarge)</a>
+<a href="http://quietlife.net/images/spectrum.gif" onClick="window.open('http://quietlife.net/images/spectrum.gif', null, 'width=583,height=210,status=yes,toolbar=no,menubar=no,location=no'); return false;"><img src="http://quietlife.net/images/spectrum_sm.gif" width="243" height="88" alt="radio spectrum graph" /><br /> (Click to Enlarge)</a>
 
 This is a display of the electromagnetic frequencies from the very low frequencies up into microwave territory. These frequencies of course extend well beyond the confines of this display in either direction, but these are the main frequencies currently utilized for communication purposes (gamma rays are not currently widely used because of unwanted transformations into super-heroes).
 
@@ -38,7 +38,7 @@ The job of the FCC, since its inception, has been the licensing of this spectrum
 
 What constitutes a "good use" of the spectrum, of course, is a rather subjective thing, but I'll get to that. The spectrum's allotment these days is a sight to behold:
 
-[<img src="http://chris.quietlife.net/images/FCC_spectrum_sm.jpg" width="383" height="245" alt="FCC spectrum" />  
+[<img src="http://quietlife.net/images/FCC_spectrum_sm.jpg" width="383" height="245" alt="FCC spectrum" />  
 (Click to Enlarge -- Warning: 869K image)][4]
 
 One more technical fact that is useful to understand is that different frequencies have different qualities. Lower frequencies travel much farther and penetrate better. You'll note in the FCC spectrum chart that a lot of the lower frequencies are for maritime navigation and stuff like that, which should now make sense. Conversely, higher frequencies don't travel as far, but they have greater information carrying capacity. Somewhere in between, there was somewhat of a "sweet-spot": frequencies with good penetration and information-carrying capacity.

@@ -12,7 +12,7 @@ categories:
 tags:
   - politics
 ---
-<img src="http://chris.quietlife.net/images/purcell.jpg" width="228" height="147" alt="Bill Purcell"  style="float: left; padding-right: 10px; border: 0px;" />In case you missed it, August 7th was a general election here in Nashville. Up for grabs were the district Metro Council spots, 5 at-large Metro Council positions, Vice Mayor, and Mayor. Voter turnout was predictably low, with only 19% of the 322,000 registered voters bothering to make it to the polls.
+<img src="http://quietlife.net/images/purcell.jpg" width="228" height="147" alt="Bill Purcell"  style="float: left; padding-right: 10px; border: 0px;" />In case you missed it, August 7th was a general election here in Nashville. Up for grabs were the district Metro Council spots, 5 at-large Metro Council positions, Vice Mayor, and Mayor. Voter turnout was predictably low, with only 19% of the 322,000 registered voters bothering to make it to the polls.
 
 Why? Well, Mayor Bill Purcell was expected to deliver a relatively uncontested landslide (despite 4 other opponents), and Vice Mayor Howard Gentry was unopposed. The only real heat was in the council, which doesn't tend to generate much voter interest.  
 <!--more-->

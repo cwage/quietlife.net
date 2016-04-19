@@ -14,7 +14,7 @@ tags:
 ---
 I find this "smoking man" [non-story][1] to be interesting:
 
-> <img alt="marine.jpg" src="http://chris.quietlife.net/images/marine.jpg" width="220" height="168" style="float: left; padding-right: 5px;" />
+> <img alt="marine.jpg" src="http://quietlife.net/images/marine.jpg" width="220" height="168" style="float: left; padding-right: 5px;" />
 > 
 > In the photo, taken after more than 12 hours of nearly non-stop deadly combat, Miller's camouflage war paint is smudged. He sports a nick on his nose. His helmet and chinstrap frame a weary expression that seems to convey the timeless fatigue of battle. And there is the cigarette, drooping from the right side of his mouth in a manner Humphrey Bogart or John Wayne would have appreciated.
 > 

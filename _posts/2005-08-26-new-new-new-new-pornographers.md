@@ -12,7 +12,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/twin_cinema.jpg" alt="cover of twin cinema" width="100" height="99" style="float: left; padding-right: 5px;" />][1]Amanda grabbed the new New Pornographers album, [Twin Cinema][1], from emusic yesterday.
+[<img src="http://quietlife.net/images/twin_cinema.jpg" alt="cover of twin cinema" width="100" height="99" style="float: left; padding-right: 5px;" />][1]Amanda grabbed the new New Pornographers album, [Twin Cinema][1], from emusic yesterday.
 
 As expected, it's totally awesome. allmusic's review is pretty spot-on, and verbose reviews aren't really my thing, so just go there, if you're into that kind of thing. Stay here if you like reviews that are "This rocks!" or "this sucks dude!"
 

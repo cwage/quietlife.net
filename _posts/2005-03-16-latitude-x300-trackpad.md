@@ -32,7 +32,7 @@ Fortunately, using a combination of hacks, I have tamed the touchpad. (*Yes, I a
   </li>
 </ol>
 
-<img src="http://chris.quietlife.net/images/howididit.jpg" width="300" height="225" />
+<img src="http://quietlife.net/images/howididit.jpg" width="300" height="225" />
 
 Here's How I Did It:  
 <!--more-->

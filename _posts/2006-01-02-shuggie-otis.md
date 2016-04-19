@@ -17,7 +17,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/shuggie_otis.jpg" width="188" height="188" alt="shuggie otis" style="float: left; padding-right: 10px" border="0" />][1]
+[<img src="http://quietlife.net/images/shuggie_otis.jpg" width="188" height="188" alt="shuggie otis" style="float: left; padding-right: 10px" border="0" />][1]
 
 I spent several hours last week on [emusic][2] last week browsing around trying to find new music. I had a few decent finds: An album by a hip-hop "orchestra" called [Breakestra][3]. It's decent stuff, pretty funky, but ultimately just a throwback to Meters type stuff. It's not very original, and it hasn't held up to repeated listens -- it's a little boring and it almost sounds like they were recording this album just to get it sampled on hiphop records. Then there's this band SuperSystem, and their album [Always Never Again][4]. Decent poppy stuff, a fun listen, but nothing that really blew my socks off. But then Amanda, out of nowhere, drops this IM in my lap for [this album][1]. This album, this freaking amazing album that is blowing my mind. This album I can't believe I've gone my whole life without knowing about before. How does she do it? I asked my dad if he had heard of shuggie otis and he said "oh yeah", which is always a sure sign that the artist in question is someone awesome that I've overlooked.
 

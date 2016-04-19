@@ -14,7 +14,7 @@ tags:
 ---
 Check out the Electric Colt. No, it's not a band name. It's the new electrumified [Mitsubishi Colt][1]:
 
-<img src="http://chris.quietlife.net/images/electriccolt.jpg" width="425" height="208" alt="diagram of the new electric colt" />
+<img src="http://quietlife.net/images/electriccolt.jpg" width="425" height="208" alt="diagram of the new electric colt" />
 
 Looks pretty cool -- it's got the in-wheel motors so there's no driveshaft or transmission. 93 miles on one charge -- not bad for city driving.
 

@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Some brief thoughts on comedians:[<img src="http://chris.quietlife.net/images/latka.jpg" width="120" height="95" alt="latka gravas" style="float: right; padding-left: 10px;" />][1]
+Some brief thoughts on comedians:[<img src="http://quietlife.net/images/latka.jpg" width="120" height="95" alt="latka gravas" style="float: right; padding-left: 10px;" />][1]
 
 Thought #1: Dane Cook is not very funny.
 

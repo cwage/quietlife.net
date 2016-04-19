@@ -21,7 +21,7 @@ Bob Krumm [raises the undead spectre of TABOR][1] in a recent post. TABOR is som
 I disagree. The Copeland Cap, as I understand it, is exactly the same as the ill-fated Colorado TABOR legislation (which you'll note was suspended in 2005 for 5 years to stop the hemmorhaging) in that it limits government spending based on a combination of two things: Inflation as measured by the Consumer Price Index (CPI) and population. The things that governments typically spend money on, particularly during an economic downturn, are the same things which grow in cost at a rate much greater than reflected in the CPI. This means an ability to react to economic changs, demographic shifts, or emergencies at best, and service-level cuts at worst.
 
 <center>
-  <img src="http://chris.quietlife.net/images/CPI_formula.jpg" width="439" height="328" alt="CPI growth graph" />
+  <img src="http://quietlife.net/images/CPI_formula.jpg" width="439" height="328" alt="CPI growth graph" />
 </center>
 
 From a cursory glance at Bryson's proposed legislation, it also looks as if it would also be subject to the "ratchet effect", which the CBPP has criticized [in the past][3] regarding its effects in Colorado:

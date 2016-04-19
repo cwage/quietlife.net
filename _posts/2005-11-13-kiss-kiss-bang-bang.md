@@ -12,7 +12,7 @@ categories:
 tags:
   - film
 ---
-[<img src="http://chris.quietlife.net/images/kisskissbangbang.jpg" width="96" height="140" alt="movie poster for Kiss Kiss Bang Bang"  style="float: left; padding-right: 10px" />][1]Amanda and I went to see [Kiss Kiss Bang Bang][1] tonight.
+[<img src="http://quietlife.net/images/kisskissbangbang.jpg" width="96" height="140" alt="movie poster for Kiss Kiss Bang Bang"  style="float: left; padding-right: 10px" />][1]Amanda and I went to see [Kiss Kiss Bang Bang][1] tonight.
 
 It was entertaining, and Robert Downey, Jr. is affable and charming as always. Val Kilmer is pretty great in his role as "Gay Perry". It was particularly refreshing to see a gay man portrayed as, you know, a man. A man that happens to like sex with other men, as opposed to the token [Jack McFarland][2] you have representing every gay man in every movie ever. He was an actual character with an actual personality and a role in the movie other than "Hi! I'm, like .. so gay!! OMG, isn't that **weird**?!"
 

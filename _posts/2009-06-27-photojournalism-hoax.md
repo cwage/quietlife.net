@@ -33,7 +33,7 @@ tags:
   - sokal
 ---
 <center>
-  <a target="_blank" href="http://paiement.parismatch.com/photoreportage2009/unalbum3.php?id=9&#038;ord=9"><img src="http://chris.quietlife.net/images/chauvin.jpg" width="600" height="402" alt="one of chauvin's award-winning (fake) pictures" /></a>
+  <a target="_blank" href="http://paiement.parismatch.com/photoreportage2009/unalbum3.php?id=9&#038;ord=9"><img src="http://quietlife.net/images/chauvin.jpg" width="600" height="402" alt="one of chauvin's award-winning (fake) pictures" /></a>
 </center>
 
 Two French students recently won Paris Match's Grand Prix du Photoreportage Etudiant -- an annual photojournalism award -- by [submitting a series of fake photographs][1]:

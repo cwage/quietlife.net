@@ -26,7 +26,7 @@ A Republican candidate, Jim Bryson, [advocates a progressive tax policy change][
 
 As Moe Syzlak would say:
 
-<img src="http://chris.quietlife.net/images/moe.jpg" width="150" height="124" alt="moe syzlak" />
+<img src="http://quietlife.net/images/moe.jpg" width="150" height="124" alt="moe syzlak" />
 
 "Whaaaaaa???"
 

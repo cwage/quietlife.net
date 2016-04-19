@@ -36,19 +36,19 @@ There are many factors considered by the NHTSA to encompass compability, includi
 
 To quantify the effects of growing incompability between cars and LTVs, the NHTSA initiated several studies recently. Using data from the 2001 FARS (Fatility Analysis Reporting System), the NHTSA came to some startling conclusions about the impact of LTVs on fatality in vehicle collisions:
 
-<img alt="fatalities.png" src="http://chris.quietlife.net/images/fatalities.png" width="402" height="312" border="0" />  
+<img alt="fatalities.png" src="http://quietlife.net/images/fatalities.png" width="402" height="312" border="0" />  
 Source: NHTSA [<sup>2</sup>][5]
 
 The driver fatality ratio in the third column is derived by comparing the number of driver fatalities in the cars versus that of the LTV. What this chart indicates is that **in frontal collisions involving a car and an LTV, there are almost four times the number of driver fatalities in the car than in the LTV.**
 
 Further, this ratio was calculated for specific LTVs for front-to-front impacts:
 
-<img alt="front-LTV-to-car.png" src="http://chris.quietlife.net/images/front-LTV-to-car.png" width="386" height="251" border="0" />  
+<img alt="front-LTV-to-car.png" src="http://quietlife.net/images/front-LTV-to-car.png" width="386" height="251" border="0" />  
 Source: NHTSA [<sup>3</sup>][6]
 
 as well as side-impacts:
 
-<img alt="side-impact.png" src="http://chris.quietlife.net/images/side-impact.png" width="421" height="248" border="0" />  
+<img alt="side-impact.png" src="http://quietlife.net/images/side-impact.png" width="421" height="248" border="0" />  
 Source: NHTSA [<sup>4</sup>][7]
 
 I think from this it's clear that the trend of "light truck"-ification we are seeing in the automotive world has dire implications for the safety of those of us driving a car.

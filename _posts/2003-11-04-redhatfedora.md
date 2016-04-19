@@ -26,7 +26,7 @@ As a long-time [Debian advocate][1], I have only one thing to say:
 
 
 <center>
-  <img alt="nelson.gif" src="http://chris.quietlife.net/images/nelson2-old.gif" width="218" height="161" border="0" />
+  <img alt="nelson.gif" src="http://quietlife.net/images/nelson2-old.gif" width="218" height="161" border="0" />
 </center>
 
 <center>

@@ -16,7 +16,7 @@ tags:
   - nipples
   - public-indecency
 ---
-<img src="http://chris.quietlife.net/images/nipples_sm.jpg" width="232" height="118" alt="nipples" />
+<img src="http://quietlife.net/images/nipples_sm.jpg" width="232" height="118" alt="nipples" />
 
 I know what you're thinking. *"Great, Chris has decided to start snapping pictures of girls with their headlights on and posting it to his blog. I knew he was creepy, but I mean geez."*
 
@@ -24,11 +24,11 @@ It's not what you think -- I'm going somewhere with this, I swear. Look closely 
 
 <!--more-->
 
-<img src="http://chris.quietlife.net/images/nipples.jpg" width="352" height="288" alt="mannequin nipples" />
+<img src="http://quietlife.net/images/nipples.jpg" width="352" height="288" alt="mannequin nipples" />
 
 That's right, it's a mannequin. With nipples. In plain view! -- of everyone! Anyone! Won't someone **please** think of **the children**?! Here's another one:
 
-<img src="http://chris.quietlife.net/images/nipples2.jpg" width="352" height="288" alt="more mannequin nipples" />
+<img src="http://quietlife.net/images/nipples2.jpg" width="352" height="288" alt="more mannequin nipples" />
 
 Does this not strike anyone else as odd? I mean, I'm not opposed to it, though I do feel a little ashamed of myself when I'm faked-out into finding a hunk of plastic sexually attractive. I'm not making the indecency argument -- I think the more nipples in public the better, really. But what purpose do the nipples on a mannequin actually serve? Is there a justification for it, or is it just "hey, free nipples"? Why are they there? The only justification I can think of is so that women can look at the shirt on a mannequin and think *"Ah, so that's what that shirt would look like on me if I weighed 90 pounds, had a 20 inch waist, didn't wear a bra, and iced down my nipples before going out."* And perhaps that's useful information, I don't know.
 
@@ -42,4 +42,4 @@ It did give me an idea, however. Women have this sort of information at their di
 
 **UPDATE:** I can't believe I didn't incorporate the word "mannequinipples" into this post even once.
 
- [1]: http://chris.quietlife.net/images/mannequin_penis.jpg
+ [1]: http://quietlife.net/images/mannequin_penis.jpg

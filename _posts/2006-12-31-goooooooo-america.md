@@ -12,6 +12,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img src="http://chris.quietlife.net/images/saddam.jpg" width="480" height="348" alt="saddam" />
+<img src="http://quietlife.net/images/saddam.jpg" width="480" height="348" alt="saddam" />
 
 Happy New Year!!

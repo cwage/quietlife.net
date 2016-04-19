@@ -16,7 +16,7 @@ Concurrent with the complete collapse of MG-Rover, their powertrain department h
 
 <!--more-->
 
-<img src="http://chris.quietlife.net/images/lookmanocams.jpg" width="234" height="155" alt="picture of valve actuators" />
+<img src="http://quietlife.net/images/lookmanocams.jpg" width="234" height="155" alt="picture of valve actuators" />
 
 The engine uses actuator technology [licensed from Camcon Technology (UK)][2]:
 

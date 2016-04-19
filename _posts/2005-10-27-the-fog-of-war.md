@@ -14,7 +14,7 @@ tags:
   - film
   - politics
 ---
-[<img src="http://chris.quietlife.net/images/mcnamara.jpg" width="134" height="150" alt="robert mcnamara" style="float: right; padding-left: 10px;" />][1]I finally watched [The Fog of War][1] tonight. It's a very interesting documentary, to say the least.
+[<img src="http://quietlife.net/images/mcnamara.jpg" width="134" height="150" alt="robert mcnamara" style="float: right; padding-left: 10px;" />][1]I finally watched [The Fog of War][1] tonight. It's a very interesting documentary, to say the least.
 
 McNamara, in this interview, is much better at asking tough questions of himself than really providing any answers. For example:
 

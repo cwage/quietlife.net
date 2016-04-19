@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img src="http://chris.quietlife.net/images/casino-royale-penguin.jpg" width="188" height="289" alt="cover of Casino Royale" style="float: right; padding-left: 10px;" />So, last night's conversation with Jag inspired me to actually bother making a post about this, expanding on my thoughts in a way that doesn't involve my own weight in beer.
+<img src="http://quietlife.net/images/casino-royale-penguin.jpg" width="188" height="289" alt="cover of Casino Royale" style="float: right; padding-left: 10px;" />So, last night's conversation with Jag inspired me to actually bother making a post about this, expanding on my thoughts in a way that doesn't involve my own weight in beer.
 
 Evidently there's this controversy over Daniel Craig's ascension to the Bond throne that has so stirred the hearts of James Bond devotees that they have seen fit to launch a website [boycotting][1] Daniel Craig, because he's clearly not the One True Bond.
 

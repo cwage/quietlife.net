@@ -14,7 +14,7 @@ tags:
   - misc
   - politics
 ---
-[<img src="http://chris.quietlife.net/images/lousytshirt.jpg" width="138" height="130" alt="Communism killed 100 million and all I got was this lousy t-shirt" style="float: left; padding-right: 10px;" />][1]I don't really wear t-shirts unless they are under something else, but if I did, I would want [one of these][1]. [This one][2] is funny too, except that it would probably be misconstrued as actually condoning capitalism in general in addition to simply pointing out the irony of wearing the profile of a brutal communist regime's henchman on a mass-produced t-shirt. This is something I have [mentioned before][3].
+[<img src="http://quietlife.net/images/lousytshirt.jpg" width="138" height="130" alt="Communism killed 100 million and all I got was this lousy t-shirt" style="float: left; padding-right: 10px;" />][1]I don't really wear t-shirts unless they are under something else, but if I did, I would want [one of these][1]. [This one][2] is funny too, except that it would probably be misconstrued as actually condoning capitalism in general in addition to simply pointing out the irony of wearing the profile of a brutal communist regime's henchman on a mass-produced t-shirt. This is something I have [mentioned before][3].
 
 The extra bonus of these shirts is that as a budding anti-authoritarian socialist, it would give me double the opportunities to lecture or argue with anyone that asked me about it.
 

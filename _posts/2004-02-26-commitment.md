@@ -16,7 +16,7 @@ I've long professed that XTC is probably without a doubt my favorite band, but I
 <!--more-->
 
   
-[<img src="http://chris.quietlife.net/images/orangesandlemons.jpg" style="float: left; padding-right: 8px;" width="150" height="148" />**Oranges and Lemons**][1]
+[<img src="http://quietlife.net/images/orangesandlemons.jpg" style="float: left; padding-right: 8px;" width="150" height="148" />**Oranges and Lemons**][1]
 
 I love this album the most because it's the best example of what I love most about XTC. Follow that? Good. What I love most about XTC is that it's good pop music, and I think Oranges and Lemons is far and away their best Pop album: tight, catchy songs and excellent production (self-produced, even). I'd say it's probably one of the best pop rock albums of all time, aside from the only potential disqualification, song-length: the opening song alone is over 5 minutes long -- a pop rock no-no.
 

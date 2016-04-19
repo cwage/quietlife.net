@@ -21,7 +21,7 @@ It's been a busy week. Here's the music currently keeping me sane:
 
 <!--more-->
 
-[<img src="http://chris.quietlife.net/images/bebel_gilberto.jpg" width="155" height="155" alt="tango tempo album cover" style="float: left; padding-right: 10px" />][1]
+[<img src="http://quietlife.net/images/bebel_gilberto.jpg" width="155" height="155" alt="tango tempo album cover" style="float: left; padding-right: 10px" />][1]
 
 \[http://www.place.org/~cwage/sounds/Bebel\_Gilberto-Samba\_Da_Bencao.mp3\] (Bebel Gilberto - Samba Da Bencao)
 
@@ -33,7 +33,7 @@ It's been a busy week. Here's the music currently keeping me sane:
   Bebel Gilberto's <a href="http://www.emusic.com/album/10859/10859873.html">Tanto Tempo</a> -- Possibly one of the most laid-back relaxing albums I have ever heard. She takes bossanova to a whole new level. As my <a href="http://last.fm/user/cwage/">last.fm profile</a> will testify, I have practically had this album on repeat permanently. Grab this album and pretend you're on a beach with a caipirinha in hand, and it'll help you trudge through the dreary remainder of winter.
 </p>
 
-[<img src="http://chris.quietlife.net/images/congotronics.jpg" width="155" height="155" alt="congotronics album cover" style="float: right; padding-left: 10px" />][2]
+[<img src="http://quietlife.net/images/congotronics.jpg" width="155" height="155" alt="congotronics album cover" style="float: right; padding-left: 10px" />][2]
 
 \[http://www.place.org/~cwage/sounds/Konono-Paradiso.mp3\] (Konono No. 1 - Paradiso)
 

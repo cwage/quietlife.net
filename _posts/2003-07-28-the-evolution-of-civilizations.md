@@ -12,7 +12,7 @@ categories:
 tags:
   - books
 ---
-<a href="http://www.amazon.com/exec/obidos/ASIN/0913966568/ myquietlife-20?dev-t=D2E7JCIYBEDRXT" target="_blank"><img src="http://chris.quietlife.net/images/quigley.jpg" alt="The Evolution of Civilizations" style="float: left; padding-right: 10px; border: 0px;" height="140" width="99" /></a>Title: <a href="http://www.amazon.com/exec/obidos/ASIN/0913966568/ myquietlife-20?dev-t=D2E7JCIYBEDRXT" target="_blank">The Evolution of Civilizations</a>  
+<a href="http://www.amazon.com/exec/obidos/ASIN/0913966568/ myquietlife-20?dev-t=D2E7JCIYBEDRXT" target="_blank"><img src="http://quietlife.net/images/quigley.jpg" alt="The Evolution of Civilizations" style="float: left; padding-right: 10px; border: 0px;" height="140" width="99" /></a>Title: <a href="http://www.amazon.com/exec/obidos/ASIN/0913966568/ myquietlife-20?dev-t=D2E7JCIYBEDRXT" target="_blank">The Evolution of Civilizations</a>  
 Author: [Carroll Quigley, Harry J. Hogan][1]  
 Publisher: Liberty Fund, Inc.  
 ISBN: 0913966568

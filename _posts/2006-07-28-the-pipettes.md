@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[<img src="http://chris.quietlife.net/images/pipettes.jpg" width="245" height="244" alt="the pipettes" style="float: left; padding-right: 10px;" border="0" />][1]
+[<img src="http://quietlife.net/images/pipettes.jpg" width="245" height="244" alt="the pipettes" style="float: left; padding-right: 10px;" border="0" />][1]
 
 Amanda has the most amazingly uncanny ability to find awesome music. It just comes naturally to her, I guess. She's been digging on this song by a band called The Pipettes (pronounced with a short 'i', evidently. They are not female pipes) for the past couple of weeks, during which I was pretty much oblivious or dismissive. Then she grabbed the album, [We Are the Pipettes][1] via emusic, and I finally got around to listening to it. It's pretty amazing. It was annoying at first, but now I can't get it out of my brain.
 

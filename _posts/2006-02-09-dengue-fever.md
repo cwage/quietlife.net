@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[<img src="http://chris.quietlife.net/images/dengue_fever.jpg" style="float: right; padding-left: 10px;" />][1]My latest play-on-repeat obsession is an album called [Escape from Dragon House][1], by a band called [Dengue Fever][2].
+[<img src="http://quietlife.net/images/dengue_fever.jpg" style="float: right; padding-left: 10px;" />][1]My latest play-on-repeat obsession is an album called [Escape from Dragon House][1], by a band called [Dengue Fever][2].
 
 \[http://www.place.org/~cwage/sounds/Dengue\_Fever-Sni\_Bong.mp3\] (Dengue Fever - Sni Bong)  
 \[http://www.place.org/~cwage/sounds/Dengue\_Fever-Tip\_My_Canoe2.mp3\] (Dengue Fever - Tip My Canoe)

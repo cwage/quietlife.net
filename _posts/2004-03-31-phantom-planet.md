@@ -12,7 +12,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/phantomplanet.jpg" height="72" width="72" style="float: left; padding-right: 8px;" />][1]Artist: [Phantom Planet][2]  
+[<img src="http://quietlife.net/images/phantomplanet.jpg" height="72" width="72" style="float: left; padding-right: 8px;" />][1]Artist: [Phantom Planet][2]  
 Title: Phantom Planet
 
 Phantom Planet's new self-titled comes as their drummer, [Jason Schwarzmann][3], is departing the band, although he makes an appearance on this record. This album is quite a departure for them. It really sounds to me like a "sophomore" album, even though it's their third. Maybe that's because I always thought of [Phantom Planet is Missing][4] as more of a demo and [The Guest][5] as their first album.

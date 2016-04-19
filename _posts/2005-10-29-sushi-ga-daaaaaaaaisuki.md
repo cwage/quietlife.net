@@ -12,7 +12,7 @@ categories:
 tags:
   - misc
 ---
-<img src="http://chris.quietlife.net/images/comicbookguy.jpg" width="165" height="124" alt="comic book guy" style="float: right; padding-left: 10px" /> You say "is it possible to correct someone on the sushi == raw fish misconception without sounding like a total pretentious jackass"  
+<img src="http://quietlife.net/images/comicbookguy.jpg" width="165" height="124" alt="comic book guy" style="float: right; padding-left: 10px" /> You say "is it possible to correct someone on the sushi == raw fish misconception without sounding like a total pretentious jackass"  
 Ahkond says "Depends on what part of the country you're in"  
 Ahkond says "here, yes"  
 Chris might say 'there's other forms of sushi besides raw fish' and leave it at that.  

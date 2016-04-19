@@ -17,7 +17,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/alternative_to_love.jpg" width="155" height="155" alt="alternative to love album cover" style="float: right;" />][1]
+[<img src="http://quietlife.net/images/alternative_to_love.jpg" width="155" height="155" alt="alternative to love album cover" style="float: right;" />][1]
 
 Amanda had Brendan Benson's latest album, [Alternative to Love][1] on our emusic.com save list, so I went ahead and grabbed it. I had never heard of him, but it's pretty good stuff. I wouldn't say that it's the greatest album ever or anything, but it's definitely filling a power-pop void in my music listening that I've been meaning to fill.
 

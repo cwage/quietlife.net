@@ -12,6 +12,6 @@ categories:
 tags:
   - misc
 ---
-<a href="http://chris.quietlife.net/images/fanfair.html" onclick="window.open('http://chris.quietlife.net/images/fanfair.html','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Fan Fair sucks.</a>
+<a href="http://quietlife.net/images/fanfair.html" onclick="window.open('http://quietlife.net/images/fanfair.html','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Fan Fair sucks.</a>
 
 There's nothing like getting stuck in traffic on your way to work ... and you're not in your car.

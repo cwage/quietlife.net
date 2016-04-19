@@ -12,7 +12,7 @@ categories:
 tags:
   - misc
 ---
-[<img src="http://chris.quietlife.net/images/futurerelic.png" style="float: right; padding-left: 8px" />][1]Shameless plug time. Check it out: My friend Paul has launched a company, [Future Relic][1]. They're big fans of the modern artist's canvas of choice: the t-shirt. From their site:
+[<img src="http://quietlife.net/images/futurerelic.png" style="float: right; padding-left: 8px" />][1]Shameless plug time. Check it out: My friend Paul has launched a company, [Future Relic][1]. They're big fans of the modern artist's canvas of choice: the t-shirt. From their site:
 
 > Future Relic is the collaboration of two artists: Paul Kim (NYC) and Kenyon Bajus (Philadelphia). They met in college in 1998 where Paul studied photography and Kenyon focused on the graphic arts.
 > 

@@ -22,5 +22,5 @@ I've been reading lately about the [Christmas Truce][2]. Somehow, amidst the hor
 
 Christmas is what initiated this truce, but what sealed the deal was a remarkable phenomenon -- a spontaneous recognition and expression of empathy, sympathy, and common humanity. This is the redeeming power of religion -- that it can spur such aberrations and outpourings of compassion. If only it had lasted, and if only we could harness this sentiment globally without silly religious fabrications to guide us. If there's a "true meaning" of Christmas I could get with, it's this. The consumerist cornucopia of Christmas is over, and I could give two shits about it, but we'd all do well to learn a lesson or two from the Christmas Truce.
 
- [1]: http://chris.quietlife.net/images/christmastruce.jpg
+ [1]: http://quietlife.net/images/christmastruce.jpg
  [2]: http://en.wikipedia.org/wiki/Christmas_truce

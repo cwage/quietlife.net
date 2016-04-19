@@ -14,7 +14,7 @@ categories:
 tags:
   - misc
 ---
-<img alt="lifemask_small.png" src="http://chris.quietlife.net/images/lifemask_small.png" width="138" height="168" border="0" style="float: left; padding-right: 10px; border: 0px;" />
+<img alt="lifemask_small.png" src="http://quietlife.net/images/lifemask_small.png" width="138" height="168" border="0" style="float: left; padding-right: 10px; border: 0px;" />
 
 Some of you may be groaning already, but I had never heard this before. Evidently, a number of people over the years have speculated on Beethoven's ethnicity. I think it's pretty clear he wasn't 100% of African descent, but the most realistic speculation is that he was a "mulatto", to use the parlance of the time.
 
@@ -24,11 +24,11 @@ Some of you may be groaning already, but I had never heard this before. Evidentl
 
 [Here][2], however, is a pretty stern refutation of this speculation, claiming that Beethoven's lineage is well-documented (but giving no references as such).
 
-<a href="http://chris.quietlife.net/images/lifemask.html" onclick="window.open('http://chris.quietlife.net/images/lifemask.html','popup','width=259,height=382,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's "Life Mask"</a>
+<a href="http://quietlife.net/images/lifemask.html" onclick="window.open('http://quietlife.net/images/lifemask.html','popup','width=259,height=382,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's "Life Mask"</a>
 
-<a href="http://chris.quietlife.net/images/deathmask2.html" onclick="window.open('http://chris.quietlife.net/images/deathmask2.html','popup','width=300,height=419,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's Death Mask</a>
+<a href="http://quietlife.net/images/deathmask2.html" onclick="window.open('http://quietlife.net/images/deathmask2.html','popup','width=300,height=419,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's Death Mask</a>
 
-<a href="http://chris.quietlife.net/images/deathmask.html" onclick="window.open('http://chris.quietlife.net/images/deathmask.html','popup','width=464,height=734,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's Death Mask (alternate view)</a>
+<a href="http://quietlife.net/images/deathmask.html" onclick="window.open('http://quietlife.net/images/deathmask.html','popup','width=464,height=734,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Beethoven's Death Mask (alternate view)</a>
 
 Given the aforementioned evidence, I think that I can say with 100% confidence and accuracy: Beats me.
 

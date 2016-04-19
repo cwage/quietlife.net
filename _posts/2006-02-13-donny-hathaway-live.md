@@ -26,7 +26,7 @@ tags:
 ---
 Uncle [proposes][1] that Les Claypool is amazinger than Victor Wooten -- though the consensus in the comments is where I stand as well. For my money, though, there's no better bass player than Willie Weeks. His bass solo on "Voices Inside (Everything is Everything) from Donny Hathaway's Live is my favorite bass solo of all time. It lacks the technical wizardry of someone like Claypool or Wooten, but it's way more fun. It's funky, playful, and creative..
 
-[<img src="http://chris.quietlife.net/images/donny_hathaway_live.jpg" width="170" height="170" style="float: right; padding-left: 10px;" />][2]
+[<img src="http://quietlife.net/images/donny_hathaway_live.jpg" width="170" height="170" style="float: right; padding-left: 10px;" />][2]
 
 [http://www.place.org/~cwage/sounds/Donny\_Hathaway-Voices\_Inside-Willie\_Weeks\_Solo.mp3] Willie Weeks - Voices Inside - Bass Solo
 

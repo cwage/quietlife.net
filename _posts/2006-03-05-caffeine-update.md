@@ -20,7 +20,7 @@ tags:
   - theobromine
   - withdrawal
 ---
-<img src="http://chris.quietlife.net/images/180px-Caffeine_molecule.png" width="180" height="132" alt="caffeine molecule" style="float: left; padding-right: 10px" />Well, it's been approximately 8 days since I cut caffeine out completely. I am still getting pretty intense headaches -- how sad is that? But in general I am starting to feel better, and I can now wake up in the morning and not feel horrible without coffee.
+<img src="http://quietlife.net/images/180px-Caffeine_molecule.png" width="180" height="132" alt="caffeine molecule" style="float: left; padding-right: 10px" />Well, it's been approximately 8 days since I cut caffeine out completely. I am still getting pretty intense headaches -- how sad is that? But in general I am starting to feel better, and I can now wake up in the morning and not feel horrible without coffee.
 
 There's quite a bit of interesting science surrounding caffeine's effects and its addiction (as with most addictions). Caffeine works by binding to adenosine receptors, which causes some neurological black magic stuff to happen, and the result is increased levels of epinephrine and norepinephrine. But the caffeine molecule itself isn't solely responsible for its effects. It's metabolized into three other molecules: paraxanthine, theobromine, and theophylline, which all have their own effects as well. Theobromine in particular is a vasodilator, which increases oxygen flow to the brain. Mmmm, oxygen.
 

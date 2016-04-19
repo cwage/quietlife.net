@@ -12,7 +12,7 @@ categories:
 tags:
   - music
 ---
-[<img src="http://chris.quietlife.net/images/notorious_lightning.jpg" width="155" height="155" alt="notorious lightning and other works" style="float: left; padding-right: 10px" />][1] [<img src="http://chris.quietlife.net/images/yourblues.jpg" width="155" height="155" alt="your blues" style="float: right; padding-left: 10px" />][2]
+[<img src="http://quietlife.net/images/notorious_lightning.jpg" width="155" height="155" alt="notorious lightning and other works" style="float: left; padding-right: 10px" />][1] [<img src="http://quietlife.net/images/yourblues.jpg" width="155" height="155" alt="your blues" style="float: right; padding-left: 10px" />][2]
 
 No, this isn't about a sunday afternoon demolition derby matchup.
 

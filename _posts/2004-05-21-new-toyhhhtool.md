@@ -12,7 +12,7 @@ categories:
 tags:
   - geek
 ---
-<img src="http://chris.quietlife.net/images/dellx300.jpg" width="236" height="205" style="float: left; padding-right: 8px;" alt="Dell Latitude X300 image" />  
+<img src="http://quietlife.net/images/dellx300.jpg" width="236" height="205" style="float: left; padding-right: 8px;" alt="Dell Latitude X300 image" />  
 Say hello to my little friend.
 
 [Dell Latitude X300][1].

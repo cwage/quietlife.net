@@ -24,15 +24,15 @@ New prints available on [chriswage.com][1]:
 Just in time for Christmas, Hanukkah, the birth of the flying spaghetti monster, or whatever else you celebrate.
 
  [1]: http://www.chriswage.com/
- [2]: http://chris.quietlife.net/images/229809646-Ti.jpg
+ [2]: http://quietlife.net/images/229809646-Ti.jpg
  [3]: http://www.chriswage.com/gallery/3745914/1/215348844#229809646
- [4]: http://chris.quietlife.net/images/231593359-Ti.jpg
+ [4]: http://quietlife.net/images/231593359-Ti.jpg
  [5]: http://www.chriswage.com/gallery/3745914/1/215348844#231593359
- [6]: http://chris.quietlife.net/images/231593366-Ti.jpg
+ [6]: http://quietlife.net/images/231593366-Ti.jpg
  [7]: http://www.chriswage.com/gallery/3745914/1/215348844#231593366
- [8]: http://chris.quietlife.net/images/231593393-Ti.jpg
+ [8]: http://quietlife.net/images/231593393-Ti.jpg
  [9]: http://www.chriswage.com/gallery/3745914/1/215348844#231593393
- [10]: http://chris.quietlife.net/images/231593422-Ti.jpg
+ [10]: http://quietlife.net/images/231593422-Ti.jpg
  [11]: http://www.chriswage.com/gallery/3745914/1/215348844#231593422
- [12]: http://chris.quietlife.net/images/231593462-Ti.jpg
+ [12]: http://quietlife.net/images/231593462-Ti.jpg
  [13]: http://www.chriswage.com/gallery/3745914/1/215348844#231593462

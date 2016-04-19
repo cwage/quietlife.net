@@ -12,7 +12,7 @@ categories:
 tags:
   - film
 ---
-[<img src="http://chris.quietlife.net/images/virginia_woolf.jpg" width="180" height="175" />][1]
+[<img src="http://quietlife.net/images/virginia_woolf.jpg" width="180" height="175" />][1]
 
 I got [Who's Afraid of Virginia Woolf][1] on DVD for christmas (finally, someone paid attention to my [amazon wishlist][2]). We finally got around to watching it last night.
 

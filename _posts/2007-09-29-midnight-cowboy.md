@@ -16,7 +16,7 @@ tags:
   - midnight-cowboy
   - movies
 ---
-<img src="http://chris.quietlife.net/images/ratso.jpg" width="350" height="253" alt="ratso" />
+<img src="http://quietlife.net/images/ratso.jpg" width="350" height="253" alt="ratso" />
 
 Watched [Midnight Cowboy][1] for the first time last night. What an awesome, fucking depressing movie. Great review, huh?
 

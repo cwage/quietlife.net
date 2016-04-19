@@ -15,7 +15,7 @@ tags:
   - misc
   - you-are-a-douche
 ---
-[<img src="http://chris.quietlife.net/images/douche_04.jpg" width="350" height="350" alt="you are a douche" />][1]
+[<img src="http://quietlife.net/images/douche_04.jpg" width="350" height="350" alt="you are a douche" />][1]
 
 For that special someone.
 

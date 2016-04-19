@@ -16,14 +16,14 @@ I have made a realization: a car's appeal is all in the nose. To me, anyway. The
 <!--more-->
 
   
-<a href="http://chris.quietlife.net/images/GT500.html" onclick="window.open('http://chris.quietlife.net/images/GT500.html','popup','width=925,height=617,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://chris.quietlife.net/images/GT500-thumb.jpg" width="231" height="154" border="0" alt="GT500 picture" /></a>
+<a href="http://quietlife.net/images/GT500.html" onclick="window.open('http://quietlife.net/images/GT500.html','popup','width=925,height=617,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://quietlife.net/images/GT500-thumb.jpg" width="231" height="154" border="0" alt="GT500 picture" /></a>
 
-<a href="http://chris.quietlife.net/images/FordMustangGT.html" onclick="window.open('http://chris.quietlife.net/images/FordMustangGT.html','popup','width=600,height=380,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://chris.quietlife.net/images/FordMustangGT-thumb.jpg" width="231" height="154" border="0" alt="Mustang GT" /></a>
+<a href="http://quietlife.net/images/FordMustangGT.html" onclick="window.open('http://quietlife.net/images/FordMustangGT.html','popup','width=600,height=380,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://quietlife.net/images/FordMustangGT-thumb.jpg" width="231" height="154" border="0" alt="Mustang GT" /></a>
 
-<a href="http://chris.quietlife.net/images/M635.html" onclick="window.open('http://chris.quietlife.net/images/M635.html','popup','width=594,height=439,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://chris.quietlife.net/images/M635-thumb.jpg" width="231" height="154" border="0" alt="M635" /></a>
+<a href="http://quietlife.net/images/M635.html" onclick="window.open('http://quietlife.net/images/M635.html','popup','width=594,height=439,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://quietlife.net/images/M635-thumb.jpg" width="231" height="154" border="0" alt="M635" /></a>
 
 Notice a trend? The nose cuts in on every model.
 
 I have utilized this common feature to create, at long last, the perfect car design:
 
-<a href="http://chris.quietlife.net/images/perfectcar.html" onclick="window.open('http://chris.quietlife.net/images/perfectcar.html','popup','width=800,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://chris.quietlife.net/images/perfectcar-thumb.png" width="231" height="152" border="0" alt="the perfect car" /></a>
+<a href="http://quietlife.net/images/perfectcar.html" onclick="window.open('http://quietlife.net/images/perfectcar.html','popup','width=800,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://quietlife.net/images/perfectcar-thumb.png" width="231" height="152" border="0" alt="the perfect car" /></a>

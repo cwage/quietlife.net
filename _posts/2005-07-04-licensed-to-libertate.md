@@ -14,6 +14,6 @@ tags:
 ---
 [This][1] is the funniest thing ever:
 
-<img src="http://chris.quietlife.net/images/libertarian_license.jpg" width="383" height="297" alt="Libertarian License plate" />
+<img src="http://quietlife.net/images/libertarian_license.jpg" width="383" height="297" alt="Libertarian License plate" />
 
  [1]: http://www.md.lp.org/license_plates.php

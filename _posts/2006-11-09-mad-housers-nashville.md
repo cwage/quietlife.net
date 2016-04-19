@@ -24,7 +24,7 @@ I have some exciting news: We're hoping to launch a Nashville chapter (of sorts)
 
 We are looking for all levels of commitment (seriously, at a bare minimum even merely showing up to swing a hammer is useful), so if you're at all interested, read on:
 
-<img src="http://chris.quietlife.net/images/housers.jpg" width="260" height="194" alt="a build" style="float: right; padding-left: 10px;" />
+<img src="http://quietlife.net/images/housers.jpg" width="260" height="194" alt="a build" style="float: right; padding-left: 10px;" />
 
 What/who are the Mad Housers? The Mad Housers are a non-profit homeless-aid organization based out of Atlanta. From their website, the goals are:
 

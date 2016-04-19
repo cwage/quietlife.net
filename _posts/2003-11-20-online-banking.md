@@ -14,7 +14,7 @@ tags:
 ---
 So, I was planning on switching banks from First Tennessee to Suntrust because of First Tennessee's horrendous online banking and their draconian overdraft charges. But lo and behold, tonight, I notice an impressive new feature on First Tennessee's online banking that nearly convinced me to stay:
 
-<img alt="ftb.png" src="http://chris.quietlife.net/images/ftb.png" width="566" height="125" border="0" />
+<img alt="ftb.png" src="http://quietlife.net/images/ftb.png" width="566" height="125" border="0" />
 
 "Wow, all these years I have been trying to change my account balance the hard way!", I thought.
 

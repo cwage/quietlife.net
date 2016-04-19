@@ -15,5 +15,5 @@ tags:
 [![image of mike tyson][1]  
 Mike tyson is nuts.][2]
 
- [1]: http://chris.quietlife.net/images/tyson.jpg
+ [1]: http://quietlife.net/images/tyson.jpg
  [2]: http://www.cnnsi.com/video/sports/2002/01/22/tyson_lewis_presser.high.ram

@@ -17,7 +17,7 @@ tags:
 ---
 This might be the best picture ever:
 
-[<img src="http://chris.quietlife.net/images/01756u1.preview.jpg" width="511" height="360" alt="fat willie and napoleon" />][1]
+[<img src="http://quietlife.net/images/01756u1.preview.jpg" width="511" height="360" alt="fat willie and napoleon" />][1]
 
 [Full size][1]
 

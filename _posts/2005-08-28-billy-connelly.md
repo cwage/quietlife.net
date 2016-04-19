@@ -14,7 +14,7 @@ tags:
 ---
 Throughout watching [The Aristocrats][1], I thought it sortof odd that they dug up all this footage of a young [John Cleese][2] commenting on the joke the documentary was about. Well, it turns out that's because it wasn't John Cleese. It was [Billy Connelly][3]. Seriously, this guy must be Cleese's lost love child:
 
-<img src="http://chris.quietlife.net/images/connellycleese.jpg" width="354" height="224" alt="cleese or connelly?" />
+<img src="http://quietlife.net/images/connellycleese.jpg" width="354" height="224" alt="cleese or connelly?" />
 
 More pictures [here][4], [here][5], [here][6], etc. I am not crazy! It's uncanny!
 

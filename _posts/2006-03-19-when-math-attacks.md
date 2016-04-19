@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img src="http://chris.quietlife.net/images/thedude.jpg" width="172" height="256" alt="the dude" style="float: right; padding-left: 10px;" />I was going to leave this one alone, but I just can't. Mark A. Rose links to [this article][1], which attempts to prove what [Mark calls][2] *"the mathematical impossibility of Darwinism"*. I talked about this with [Rev][3] for a bit -- he posted [some of our initial conversation][4] -- but in the end I think we agreed that responding to this sort of thing is pointless, because anyone that can honestly buy into such tripe is too far gone for reason.
+<img src="http://quietlife.net/images/thedude.jpg" width="172" height="256" alt="the dude" style="float: right; padding-left: 10px;" />I was going to leave this one alone, but I just can't. Mark A. Rose links to [this article][1], which attempts to prove what [Mark calls][2] *"the mathematical impossibility of Darwinism"*. I talked about this with [Rev][3] for a bit -- he posted [some of our initial conversation][4] -- but in the end I think we agreed that responding to this sort of thing is pointless, because anyone that can honestly buy into such tripe is too far gone for reason.
 
 But, I just can't let it go. Ever since I read it, yesterday, I've had this nagging quote running through my head: ["This aggression will not stand, man."][5] Science is my rug, and they're fucking peeing on it. This aggression will not stand.
 

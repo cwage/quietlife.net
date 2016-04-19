@@ -16,4 +16,4 @@ Today is Amanda's birthday! HAPPY BIRTHDAY AMANDA!!!
 
 And here's a picture of a bichon in a party hat for some reason:
 
-<img src="http://chris.quietlife.net/images/bichoninpartyhat.jpg" width="432" height="301" alt="bichon in a party hat" />
+<img src="http://quietlife.net/images/bichoninpartyhat.jpg" width="432" height="301" alt="bichon in a party hat" />

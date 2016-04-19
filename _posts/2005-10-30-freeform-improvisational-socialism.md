@@ -35,7 +35,7 @@ It all sounds good and well until you realize that the entire system's prosperit
 I don't think it's socialism that the world is afraid of, so much as the rise of an creepy authoritarian personality cult (at least among those of us capable of making that distinction). *Ahem*:
 
 <center>
-  <br /> <img src="http://chris.quietlife.net/images/chavez.jpg" width="325" height="215" alt="mural of hugo chavez" /><br />
+  <br /> <img src="http://quietlife.net/images/chavez.jpg" width="325" height="215" alt="mural of hugo chavez" /><br />
 </center>
 
  [1]: http://www.nytimes.com/2005/10/30/international/americas/30venezuela.html?ex=1288328400&en=0df06c889f982d76&ei=5090&partner=rssuserland&emc=rss

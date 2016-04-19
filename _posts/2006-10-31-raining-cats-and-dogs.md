@@ -25,7 +25,7 @@ tags:
 
 When [Sarcastro][2], [Aunt B][2], and I all agree on something, you know it's something you can really get behind.
 
-<img src="http://chris.quietlife.net/images/claudia_nunez_family2.jpg" width="349" height="291" alt="claudia nunez and family" />
+<img src="http://quietlife.net/images/claudia_nunez_family2.jpg" width="349" height="291" alt="claudia nunez and family" />
 
 Meet Claudia Nunez and her family. Claudia is in the process of deportation from Nashville back to El Salvador. Despite residing in the country for years. Despite her 3 year old daughter and her 4 year old daughter -- both U.S. citizens by birth. Despite her husband, also a legal resident. Despite all this, she's being sent back to El Salvador, where, beyond being stripped of her family, she'll have to deal with [these guys][3]. What family of four did she murder, you ask? Well, actually, she just overstayed her visa (which, incidentally, is not a crime).
 

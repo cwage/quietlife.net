@@ -55,7 +55,7 @@ What I had a much harder time finding was **the actual data**. It's very difficu
 But, it's out there. Using data from the Family Expenditure Survey (FES) in the UK, an analysis of expenditures as a percentage of disposable income by income quintiles (Q1 - lowest; Q5 - highest) was performed [<sup>1</sup>][5]. The results are pretty conclusive:
 
 <center>
-  <img alt="consumption_vs_income.png" src="http://chris.quietlife.net/images/consumption_vs_income.png" width="404" height="272" border="0" />
+  <img alt="consumption_vs_income.png" src="http://quietlife.net/images/consumption_vs_income.png" width="404" height="272" border="0" />
 </center>
 
 Here we see a definite pattern: the highest income brackets spending the least percentage of their income, and the middle quintile breaking even. Interestingly, the lowest quintiles spend more than they receive in income. The paper explains this odd phenomenon:

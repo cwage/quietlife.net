@@ -17,7 +17,7 @@ Check out [nashvillegasprices.com][1], which is .. well, you can probably figure
 Oh, and to anyone that's ever made fun of me for owning two late 80's Nissan Sentras. This is for you:
 
 <center>
-  <img alt="nelson.gif" src="http://chris.quietlife.net/images/nelson2-old.gif" width="218" height="161" border="0" />
+  <img alt="nelson.gif" src="http://quietlife.net/images/nelson2-old.gif" width="218" height="161" border="0" />
 </center>
 
 <center>

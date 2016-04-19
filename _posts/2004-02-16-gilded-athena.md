@@ -12,7 +12,7 @@ categories:
 tags:
   - misc
 ---
-<img src="http://chris.quietlife.net/images/parthenon.jpg" style="float: left; padding-right: 8px;" />Anyone that has been to the city of Nashville has been to, or at least seen, [the Parthenon][1], a full-scale replica of the [original Parthenon in Greece][2].
+<img src="http://quietlife.net/images/parthenon.jpg" style="float: left; padding-right: 8px;" />Anyone that has been to the city of Nashville has been to, or at least seen, [the Parthenon][1], a full-scale replica of the [original Parthenon in Greece][2].
 
 What some don't know about, though, is the equally impressive [statue of Athena][3] that graces the interior.
 
@@ -25,7 +25,7 @@ For 12 years, it stood in the Parthenon as an unadorned white statue. Although t
 Well, I didn't know this until today, but evidently this was fixed as well, in 2002. The statue has been painted and adorned with 23.75 karat gilding by local gilder Lou Reed. The results are impressive, as you can see:
 
 <center>
-  <img src="http://chris.quietlife.net/images/athena.jpg" />
+  <img src="http://quietlife.net/images/athena.jpg" />
 </center>
 
 Check out a page on [the gilding process][6] and a [photo gallery][7]. There's also a [more detailed gallery and timeline][8] by one of the gilders, Margaret Krakowiak.

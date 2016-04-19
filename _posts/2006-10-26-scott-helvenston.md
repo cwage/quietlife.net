@@ -18,7 +18,7 @@ tags:
   - scott-helvenston
   - workout
 ---
-<img src="http://chris.quietlife.net/images/total_body_workout.jpg" width="111" height="200" alt="total body workout" style="float: right; padding-left: 10px;" />
+<img src="http://quietlife.net/images/total_body_workout.jpg" width="111" height="200" alt="total body workout" style="float: right; padding-left: 10px;" />
 
 I was looking for a workout DVD I had by a guy named [Scott Helvenston][1] -- it was a "Navy SEAL" workout that was a good tour of basic calisthenics stuff, but I only had it on VHS.
 

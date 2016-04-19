@@ -20,5 +20,5 @@ Well, after a year and a half, I've had enough. Last week, I bought a portable d
 
 Isn't technology grand?
 
- [1]: http://chris.quietlife.net/images/dishwasher.jpg
+ [1]: http://quietlife.net/images/dishwasher.jpg
  [2]: http://www.epinions.com/hmgd-Dishwashers-Frigidaire-Portable_Dishwasher

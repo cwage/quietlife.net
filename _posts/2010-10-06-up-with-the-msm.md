@@ -25,7 +25,7 @@ tags:
 ---
 For once a blog post referring to the MSM that isn't about the mainstream media! So, there's this meme about [mechanically separated meat][1] that's going around. Chicken, specifically. As a quick [visit to snopes][2] will tell you, the original text with the meme is riddled with errors and exaggerations -- e.g. the meat is never "soaked" in ammonia, nor do they grind up everything in the carcass. But even aside from that, I find the whole thing fairly irritating. Can someone please tell me what the actual problem is, here? Yes, it's a "gross" picture. Lots of our food is gross before we eat it. A fresh butchered chicken by itself isn't the most pleasant thing even before it's ground up. How is this pink paste any more revolting than tofu?
 
-<img src="http://chris.quietlife.net/images/tofu.jpg" width="299" height="198" alt="tofu" />
+<img src="http://quietlife.net/images/tofu.jpg" width="299" height="198" alt="tofu" />
 
 Tofu is made by taking soybeans and blending them up and pressing them into a homogenous juice, and then adding a coagulant (usually Calcium sulfate, Magnesium chloride, calcium chloride, or Glucono delta-lactone), which causes it to curdle. They then press the resulting curd slop until it's solid and cut it into uniform squares of this hideous white substance. Oh man, can you believe people actually eat that revolting, processed food?!
 

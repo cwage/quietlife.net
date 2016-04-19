@@ -21,7 +21,7 @@ tags:
 
 \[http://www.place.org/~cwage/sounds/Teredtchewalehu_.mp3\] (Alemayehu Eshete - Teredtchewalehu)
 
-[<img src="http://chris.quietlife.net/images/ethiopiquesvol10.jpg" width="100" height="100" alt="ethiopiques vol 10 album cover" style="float: right; padding-left: 10px" />][1]  
+[<img src="http://quietlife.net/images/ethiopiquesvol10.jpg" width="100" height="100" alt="ethiopiques vol 10 album cover" style="float: right; padding-left: 10px" />][1]  
 I first encountered Ethiopian jazz, like a lot of people probably have, in Jim Jarmusch's latest movie, [Broken Flowers][2]. [Mulatu Astatke][3] has a couple of standout tracks on the soundtrack to this movie (which is otherwise unremarkable, by the way) that I loved.
 
 Not too long after, I also noticed Astatke and other striking music on the stereo at [Horn of Africa][4], as well, on our many excursions out there. So, I poked around emusic for any Mulatu Astatke and found the [Buda Musique Ethiopiques][5] set of compilations. I first snagged Vol. 10. and just today snagged Vol. 8 as well, having listened to nothing but Vol. 10 all week.

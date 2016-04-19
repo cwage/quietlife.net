@@ -22,8 +22,8 @@ Rich seems to overlook that we have a tax structure in brackets -- taxes for eve
 
 <!--more-->
 
-<img src="http://chris.quietlife.net/images/change_in_income_tax_rate.png" width="651" height="102" alt="change in income tax rate" />  
-<img src="http://chris.quietlife.net/images/change_in_income_tax_share.png" width="647" height="99" alt="change in income tax share" />
+<img src="http://quietlife.net/images/change_in_income_tax_rate.png" width="651" height="102" alt="change in income tax rate" />  
+<img src="http://quietlife.net/images/change_in_income_tax_share.png" width="647" height="99" alt="change in income tax share" />
 
 You can clearly see that everyone's income tax rate went down, but the **share** for the highest quintile goes up consistently. This doesn't mean we're "creating wealth". This CBO report focuses on the effect of the change in tax policy, not tax revenue intake. It just means we've shuffled things around a bit so everyone pays less on the aggregate, but the highest quintile pays more as a **share** of income tax than they did previously. Whether or not this tax policy is creating any wealth or not would require an entirely different (and much more difficult) analysis.
 

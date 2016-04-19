@@ -14,7 +14,7 @@ tags:
 ---
 Turns out when I was in high school AP calculus programming bifurcation diagrams into my calculator all day, it turns out what I was actually making were [orbit diagrams][1]:
 
-<img src="http://chris.quietlife.net/images/orbit.png" height="250" width="250" alt="image of an orbit diagram" />
+<img src="http://quietlife.net/images/orbit.png" height="250" width="250" alt="image of an orbit diagram" />
 
 And to think all these years I've been going around telling people I was making bifurcation diagrams. How embarassing.
 

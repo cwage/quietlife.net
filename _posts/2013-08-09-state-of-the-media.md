@@ -25,7 +25,7 @@ tags:
   - tennessean
 ---
 <center>
-  <img src="http://chris.quietlife.net/images/bloomcountyusatodayeffect.jpg" width="725" height="252" alt="the dreaded usa today effect" />
+  <img src="http://quietlife.net/images/bloomcountyusatodayeffect.jpg" width="725" height="252" alt="the dreaded usa today effect" />
 </center>
 
 Some required reading before you go any further: [Why Nashville Needs Newspapers][1] -- the Nashville City Paper's farewell editorial, and [JR Lind on the dim future of newspapers][2].

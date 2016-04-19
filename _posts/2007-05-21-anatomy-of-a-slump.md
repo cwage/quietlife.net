@@ -35,4 +35,4 @@ It's even worse if you correct for posts about guacamole. But, hopefully, I will
 
 As you can see, I've learned a lot in the last 5 months, and there's more where that came from. So, hopefully, if I can find the time, I'll get to elaborating. If you're lucky.
 
- [1]: http://chris.quietlife.net/images/posts.gif
+ [1]: http://quietlife.net/images/posts.gif

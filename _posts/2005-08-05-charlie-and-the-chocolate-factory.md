@@ -20,7 +20,7 @@ The exposition into Wonka's past was unnecessary, and ruined what was otherwise 
 
 Sorry, Johnny, but Wilder retains the Best Wonka award:
 
-<img src="http://chris.quietlife.net/images/wonka_wilder.jpg" width="360" height="246" alt="gene wilder as willy wonka" />
+<img src="http://quietlife.net/images/wonka_wilder.jpg" width="360" height="246" alt="gene wilder as willy wonka" />
 
 This gives me an idea though. There should be a Wonka franchise like the Bond franchise. Okay maybe not.
 

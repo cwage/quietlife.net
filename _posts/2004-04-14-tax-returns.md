@@ -32,7 +32,7 @@ The paper then goes into detail on each round of tax cuts, with lots of pretty g
 
 
 <center>
-  <img src="http://chris.quietlife.net/images/taxcuts_deficits.jpg" width="384" height="282" />
+  <img src="http://quietlife.net/images/taxcuts_deficits.jpg" width="384" height="282" />
 </center>
 
  [1]: http://www.cbpp.org/

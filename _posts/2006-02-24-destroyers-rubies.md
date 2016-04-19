@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[<img src="http://chris.quietlife.net/images/destroyers_rubies.jpg" width="155" height="155" alt="destroyer's rubies" style="float: right; padding-left: 10px;" />][1]
+[<img src="http://quietlife.net/images/destroyers_rubies.jpg" width="155" height="155" alt="destroyer's rubies" style="float: right; padding-left: 10px;" />][1]
 
 Destroyer's new album, [Destroyer's Rubies][1] is out. We've actually been listening to it for the past week or so because Merge Records has been [streaming it][2] on their website via Flash since it came out (which is a genius move, by the way). We just downloaded it from eMusic, though, and so I've been giving it a more thorough listen. I like it a lot. The eMusic reviewer says it's Destroyer's best album. I'm not willing to go that far, but it's pretty good. For best album, I'm sticking with [Streethawk][3], but give me a week or so. I'm starting to be swayed while listening to it for this review even now.
 

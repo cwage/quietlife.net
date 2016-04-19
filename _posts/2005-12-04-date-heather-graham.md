@@ -12,7 +12,7 @@ categories:
 tags:
   - misc
 ---
-<img src="http://chris.quietlife.net/images/scenechick.png" width="122 height="257" alt="scene personals ad" />
+<img src="http://quietlife.net/images/scenechick.png" width="122 height="257" alt="scene personals ad" />
 
 Look familiar? If you read [The Nashville Scene][1] or [Pith in the Wind][2], she ought to. She's been the "featured" personal for the Scene's personals since roughly the beginning of time. Now, featuring a particularly attractive personal as a supposedly representative sample for a dating service is nothing new, but guys, come on, mix it up a little. I feel like I already have a relationship with this girl. I see her more than my girlfriend.
 

@@ -26,7 +26,7 @@ tags:
 Adamantium claws, skeleton, healing ability, and near-invincibility are pretty cool, for sure. But let's be honest. This is the side of Wolverine's character we all most enjoy and relate to:
 
 <center>
-  <img src="http://chris.quietlife.net/images/wolverine2.jpg" width="475" height="385" alt="are you a beer?" />
+  <img src="http://quietlife.net/images/wolverine2.jpg" width="475" height="385" alt="are you a beer?" />
 </center>
 
 And yes, that's real -- it's from Giant-Size Astonishing X-Men #1, written by .. guess who? Joss Whedon.

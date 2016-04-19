@@ -14,7 +14,7 @@ tags:
 ---
 Last week Brittney [asked][1] what foods we enjoyed in cold weather. One that I forgot to mention:
 
-<img src="http://chris.quietlife.net/images/tempura_soba.gif" width="304" height="216" alt="tempura soba" />
+<img src="http://quietlife.net/images/tempura_soba.gif" width="304" height="216" alt="tempura soba" />
 
 Tempura Soba. The perfect food to eat on a blustery fall day -- such as today! Benkay and Ichiban both have very good tempura soba.
 

@@ -22,7 +22,7 @@ The picture was taken during an air show at Mountain Home Air Force Base, Idaho,
 
 The picture was taken by Staff Sgt. Bennie J. Davis III, Still Photographer, U.S. Air Force, with a Nikon D1X camera using a 300-mm lens with an aperture setting of 2.8 and shutter speeds of 1/1000 and 1/2000. The picture is admirable, not only because of the quality, but also because the F-16, after being diverted away from the crowd of 68,000+, was headed right for the tower, stopping only a few hundred feet away.
 
- [1]: http://chris.quietlife.net/images/winner1005sm.jpg
+ [1]: http://quietlife.net/images/winner1005sm.jpg
  [2]: http://www.avweb.com/newspics/winner1005.jpg
  [3]: http://www.avweb.com/newspics/DavisTbirdEject.jpg
  [4]: http://www.avweb.com/newswire/10_05a/briefs/186582-1.html

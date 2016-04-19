@@ -35,7 +35,7 @@ Are you shaking with rage yet? Don't worry, you will be:
 
 "Extravagantly wrong"? What? I'm sorry. Did I miss something? Too bad Mr. Brooks didn't let us in on what revolutionary evidence he's using to back up that claim. Let's take a look at the numbers on poverty for this "40-year experiment" (Source: [census.gov][2]):
 
-<img src="http://chris.quietlife.net/images/poverty_rate.png" width="480" height="360" />
+<img src="http://quietlife.net/images/poverty_rate.png" width="480" height="360" />
 
 From this graph the only thing evident is the impact of the Great Society welfare enactments in the '60s and the complete absence of any concrete trend thereafter, including the dismantling of welfare as we knew it in the 1990s -- i.e., the complete opposite of what David Brooks is arguing.
 

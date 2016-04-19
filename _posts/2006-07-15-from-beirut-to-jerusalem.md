@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[<img src="http://chris.quietlife.net/images/beirut.jpg" width="76" height="120" alt="from beirut to jerusalem" style="float: left; padding-right: 10px;" />][1]Well, I finished off [From Beirut to Jerusalem][1] this week, which as it turns out seems to have been, sadly, a rather [appropriate week][2].
+[<img src="http://quietlife.net/images/beirut.jpg" width="76" height="120" alt="from beirut to jerusalem" style="float: left; padding-right: 10px;" />][1]Well, I finished off [From Beirut to Jerusalem][1] this week, which as it turns out seems to have been, sadly, a rather [appropriate week][2].
 
 I went into this book heavily inclined to not like it. I'm not a huge fan of the Tom Friedman that I knew as a NYT columnist. I found him a little too quick to lose himself in a convoluted, oh-so-clever metaphor to make a point, and I didn't agree with his eagerness to remove Saddam Hussein from power in Iraq in 2003. I expected *From Beirut to Jerusalem* to be similarly meandering and blustery, but I was wrong:
 
