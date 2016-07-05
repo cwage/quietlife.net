@@ -22,13 +22,10 @@ tags:
 ---
 <center>
   <a rel="lyteshow[frontpage]" href="http://farm1.staticflickr.com/145/420799961_a0d0a4ffde_b.jpg" title="River by cwage, on Flickr"><img src="http://farm1.staticflickr.com/145/420799961_a0d0a4ffde_n.jpg" width="320" height="213" alt="River" /></a> 
+  </center>
   
   <p class="caption">
     Behold our east bank, withered and dying.
-  </p>
-  
-  <p>
-    </center>
   </p>
   
   <p>
