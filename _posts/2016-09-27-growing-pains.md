@@ -12,7 +12,7 @@ tags:
 ---
 Everyone loves growth. People love it, cities love it, economies love it. Growth is the measuring stick by which we gauge success -- for better or worse. Nashville is no different, and over the last decade our city has emphasized growth and tourism, largely at the prompting of interested parties, including primarily the Nashville Convention & Visitors Corporation and its CEO Butch Spyridon, among others. Driven by the cracking whip and rallying cry for room-nights, our city has seen a massive influx in both visitors and residents. We're a popular destination -- an "it" city. With growth, of course, comes change.
 
-As with gentrification, though, so with growth -- the accompanying change is all fine and well as long as it happens to someone else. And so, we begin to see a backlash: the NIMBY calls for regulation and curtailing of the symptoms of growth.
+As with gentrification, though, so with growth: the accompanying change is all fine and well as long as it happens to someone else. And so, we begin to see a backlash: the NIMBY calls for regulation and curtailing of the symptoms of growth.
 
 The latest target are Short Term Rental Properties (STRP), Airbnb and VRBO foremost among them. (Some) residents are not pleased with the influx of visitors, and the accompanying aches and pains. These STRPs are taking the brunt of the criticism -- though unfairly, as I will argue shortly. A brief list of some of the background on the outcry and some proposed rule changes (thanks to [Councilman Jeremy Elrod (@JeremyElrod26)][1] for gathering these for me.
 
