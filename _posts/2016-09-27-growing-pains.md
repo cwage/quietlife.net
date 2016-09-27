@@ -14,7 +14,7 @@ Everyone loves growth. People love it, cities love it, economies love it. Growth
 
 As with gentrification, though, so with growth: the accompanying change is all fine and well as long as it happens to someone else. And so, we begin to see a backlash: the NIMBY calls for regulation and curtailing of the symptoms of growth.
 
-The latest target are Short Term Rental Properties (STRP), Airbnb and VRBO foremost among them. (Some) residents are not pleased with the influx of visitors, and the accompanying aches and pains. These STRPs are taking the brunt of the criticism -- though unfairly, as I will argue shortly. A brief list of some of the background on the outcry and some proposed rule changes (thanks to [Councilman Jeremy Elrod (@JeremyElrod26)][1] for gathering these for me.
+The latest target is Short Term Rental Properties (STRP), Airbnb and VRBO foremost among them. (Some) residents are not pleased with the influx of visitors, and the accompanying aches and pains. These STRPs are taking the brunt of the criticism -- though unfairly, as I will argue shortly. A brief list of some of the background on the outcry and some proposed rule changes (thanks to [Councilman Jeremy Elrod (@JeremyElrod26)][1] for gathering these for me.
 
 * [Airbnb rule would try to stop large parties][2]
 * [Airbnb, other rental services take flight as tax collections, codes, zoning issues lag][3]
