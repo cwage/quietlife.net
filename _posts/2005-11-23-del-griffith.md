@@ -16,7 +16,7 @@ tags:
   - film
   - misc
 ---
-![Del Griffith](http://quietlife.net/images/delgriffith.pg){:class="img-responsive"}
+![Del Griffith](/images/delgriffith.jpg){:class="img-responsive"}
 
 > You wanna hurt me? Go right ahead if it makes you feel any better. I'm an easy target. Yeah, you're right, I talk too much. I also listen too much. I could be a cold-hearted cynic like you... but I don't like to hurt people's feelings. Well, you think what you want about me; I'm not changing. I like... I like me. My wife likes me. My customers like me. 'Cause I'm the real article. What you see is what you get.
 
