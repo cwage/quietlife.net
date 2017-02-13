@@ -14,8 +14,8 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<div class="figureright">
-  <a title="hee hee. this is insane. by Chris Wage, on Flickr" href="https://farm8.staticflickr.com/7054/6946981391_81e7a5c304_b.jpg" rel="lyteshow[frontpage]"><img src="https://farm8.staticflickr.com/7054/6946981391_81e7a5c304_m.jpg" alt="hee hee. this is insane." width="240" height="180" /></a></p> 
+<div style="font-size: small">
+  <a title="hee hee. this is insane. by Chris Wage, on Flickr" href="https://farm8.staticflickr.com/7054/6946981391_81e7a5c304_b.jpg" rel="lyteshow[frontpage]"><img src="https://farm8.staticflickr.com/7054/6946981391_81e7a5c304_m.jpg" alt="hee hee. this is insane." width="240" height="180" /></a>
   
   <p>
     Sony NEX-5N w/ Voigtlander 50/1.1.<br /> Is this a professional camera?
