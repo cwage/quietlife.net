@@ -17,7 +17,7 @@ tags:
   - minecraft
 ---
 <div class="figure">
-  <a rel="lyteshow[frontpage]" href="http://farm9.staticflickr.com/8175/8045927866_869c6ed993_b.jpg" title="2012-10-01_22.28.57 by cwage, on Flickr"><img src="http://farm9.staticflickr.com/8175/8045927866_869c6ed993_n.jpg" width="320" height="180" alt="2012-10-01_22.28.57" /></a></p> 
+  <a rel="lyteshow[frontpage]" href="http://farm9.staticflickr.com/8175/8045927866_869c6ed993_b.jpg" title="2012-10-01_22.28.57 by cwage, on Flickr"><img src="http://farm9.staticflickr.com/8175/8045927866_869c6ed993_n.jpg" width="320" height="180" alt="2012-10-01_22.28.57" /></a>
   
   <p>
     Look on my works, ye Mighty, and despair!
