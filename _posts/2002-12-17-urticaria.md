@@ -3,7 +3,7 @@ post_id: 151
 title: urticaria
 author: cwage
 layout: post
-guid: http://wordpress.quietlife.net/?p=151
+guid: http://quietlife.net/?p=151
 permalink: /2002/12/17/urticaria/
 aktt_notify_twitter:
   - yes
