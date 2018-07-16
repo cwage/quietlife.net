@@ -30,8 +30,8 @@ I get the impression that it's sortof a chicken-and-the-egg type thing. Are the 
 
 Well, I'll find out -- that is, if the pharmacy ever manages to order Gleevec for me.
 
- [1]: http://chris.quietlife.net/2001/10/01/this-is-what-i-have/
- [2]: http://chris.quietlife.net/2002/01/02/well-i-have-some-good/
- [3]: http://chris.quietlife.net/2002/09/14/eosinophils/
+ [1]: http://quietlife.net/2001/10/01/this-is-what-i-have/
+ [2]: http://quietlife.net/2002/01/02/well-i-have-some-good/
+ [3]: http://quietlife.net/2002/09/14/eosinophils/
  [4]: http://www.mc.vanderbilt.edu/VanderbiltBillWilkersonCenter/asap.html
  [5]: http://www.gleevec.com/
