@@ -20,7 +20,7 @@ A few months ago [I joked][1] that there were two articles that were required re
 * [This summary of medical pricing and the AMA][4] helps explain where and how costs are set in our current system. "Why is our healthcare so expensive?" is a difficult question, but this is one glaring part of the answer. (tl;dr: it's a profiteering racket)
 * If you'll allow some self-indulgence, [this post by me][5], opining on obamacare (my optimism has since greatly diminished in the intervening 7 years), but in particular pointing out the difference between "health care" and "health insurance", and lamenting the fact that in public debate, no one even bothers to make this lexical distinction.
 * [Buy Health, Not Healthcare][6] - a good framing of the situation by Robin Hanson in 1994.
-* Lastly, perhaps not required reading, but [a good thorough analysis][7] of healthcare costs and the ramifications of various single-payer proposals by Megan McArdle.
+* [A good thorough analysis][7] of healthcare costs and the ramifications of various single-payer proposals by Megan McArdle.
 * [Econtalk's fascinating and infuriating episode][8] with Kevin Smith on 'free market' healthcare and how most of the industry currently bills for procedures.
 
 [1]: https://twitter.com/cwage/status/699363881110491136
