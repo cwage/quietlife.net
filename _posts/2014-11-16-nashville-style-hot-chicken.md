@@ -61,7 +61,7 @@ So, rather than post a traditional recipe, I'm going to break this post out into
   * There isn't a lot of contention (that I know of) when it comes to frying the chicken. Use an oil with a high smoke point. <a rel="lyteshow[frontpage]" href="https://farm8.staticflickr.com/7537/15803455345_ab85c3d93c_b.jpg" title="2014-11-08-02602 by Chris Wage, on Flickr">I use peanut oil</a> that I save in my fridge after filtering for repeated use. I've heard that some people use chicken fat, though I would wonder about the smoke point of that?
   * I fry in my cast iron skillet. I want to upgrade to a dutch oven at some point both to avoid burns from the bottom of the currently shallow pan, and also to reduce the risk of grease fire spillage.
   * Try to peg the temperature of the oil at around 350F. It will drop when you add the chicken.
-  * Don't overcrowd the pan.</a> This was almost pushing it for me, especially since I am using a shallower skillet and not a dutch oven, so my oil doesn't have a lot of thermal capacity. If you add too much at once, the temperature will drop, and you will get nasty chicken.
+  * Don't overcrowd the pan. This was almost pushing it for me, especially since I am using a shallower skillet and not a dutch oven, so my oil doesn't have a lot of thermal capacity. If you add too much at once, the temperature will drop, and you will get nasty chicken.
   * Can you bake the chicken if you want a healthier alternative? No.
 
 ### The Sauce
@@ -88,7 +88,7 @@ As with everything, though, connoisseurship abounds, and there are some decision
   <a rel="lyteshow[frontpage]" href="https://farm8.staticflickr.com/7518/15184038463_1b64e5a5f7_b.jpg" title="2014-11-15-02639 by Chris Wage, on Flickr"><img src="https://farm8.staticflickr.com/7518/15184038463_1b64e5a5f7.jpg" width="500" height="332" alt="2014-11-15-02639" /></a>
 </center>
 
-Serve on a slice or two of white bread, with pickles. Pickles not shown. But don't forget the bread. It soaks up the sauce and is arguably the best part, like suckin the head of a crawfish. *[ed: try to come up with a more savory metaphor here]*
+Serve on a slice or two of white bread, with pickles. Pickles not shown. But don't forget the bread. It soaks up the sauce and is arguably the best part!
 
 That's it! Happy eating!
 
