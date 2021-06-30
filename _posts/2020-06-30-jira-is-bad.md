@@ -4,7 +4,7 @@ title: jira is bad
 author: cwage
 layout: post
 guid: http://quietlife.net/?p=4250
-permalink: /2020/06/30/jira-is-baders
+permalink: /2020/06/30/jira-is-bad
 categories:
   - Uncategorized
 tags:
