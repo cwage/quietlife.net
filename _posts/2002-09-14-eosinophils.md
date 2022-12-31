@@ -12,11 +12,12 @@ categories:
 tags:
   - personal
 ---
-**UPDATE:** I am not a doctor. This is not a doctor's website. I apologize if the tone of this entry is misleading. If you have arrived here because you are searching for things like "high eosinophil count" because you have one, and you are wondering what it means, you have come to the wrong place. You may want to re-consider the fact that your doctor or medical institution delivered you a medical statistic about your body without telling you what it means.
 
-I suggest that you contact them immediately, and yell at them. Then find another doctor who will tell you what this means. If you don't have a doctor, see a general practitioner, who can recommend you to an immunology specialist.
+**UPDATE:** _I am not a doctor. This is not a doctor's website. I apologize if the tone of this entry is misleading. If you have arrived here because you are searching for things like "high eosinophil count" because you have one, and you are wondering what it means, you have come to the wrong place. You may want to re-consider the fact that your doctor or medical institution delivered you a medical statistic about your body without telling you what it means._
 
-Asking for medical advice from blogs on the internet is not a good idea.
+_I suggest that you contact them immediately, and yell at them. Then find another doctor who will tell you what this means. If you don't have a doctor, see a general practitioner, who can recommend you to an immunology specialist._
+
+_Asking for medical advice from blogs on the internet is not a good idea._
 
 ---
 
@@ -34,4 +35,4 @@ These cells are easily distinguished by their relatively large granules that tak
 
 Stay tuned for next month's installment! Stay in school!
 
-² [Eosinophil](http://www.kumc.edu/instruction/medicine/pathology/ed/keywords/kw_eosinoph.html)
+² [Eosinophil](http://www.kumc.edu/instruction/medicine/pathology/ed/keywords/kw_eosinoph.html)**
