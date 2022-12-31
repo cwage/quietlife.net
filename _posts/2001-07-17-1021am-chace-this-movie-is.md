@@ -12,8 +12,12 @@ categories:
 tags:
   - misc
 ---
-[10:21AM] <chace> "This movie is whack"  
-[10:21AM] <chace> "The musical score is bogus"  
-[10:21AM] <chace> [end]
+
+```
+chace: This movie is whack
+chace> The musical score is bogus
+chace> [end]   
+```
 
 My good friend and colleague Chace St. Claire asked that I relay this, his review of the movie "The Score", starring Robert Deniro and Edward Norton. I, being quite the movie critic myself, obliged, naturally, and quite frankly I must thank him for saving me the loss of $7.50 on a movie so clearly lacking in taste, direction, and artistic integrity!
+
