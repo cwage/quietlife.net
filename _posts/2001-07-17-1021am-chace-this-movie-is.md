@@ -14,7 +14,7 @@ tags:
 ---
 
 ```
-chace: This movie is whack
+chace> This movie is whack
 chace> The musical score is bogus
 chace> [end]   
 ```
