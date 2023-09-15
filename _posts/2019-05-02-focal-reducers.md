@@ -14,6 +14,8 @@ tags:
 
 A few years ago, I ran across an ad for a product: a "speed booster" lens adapter that promised to increase the 'speed' (effective light-gathering normally associated with the maximum aperture of the lens) by up to [1 full stop][1]. A popular example is the [Metabones adapter][2] for various cameras/lenses. It sounded, at first, like a scam. "How can you change the fundamental limits of a lens to be .. better? You can't, it makes no sense." I blew it off and moved on. It wasn't till I got into astrophotography that I started hearing talk of similar devices: "focal reducers", which increased the effective field-of-view (of a lens or telescope) and also gave a similar "speed" boost. Again, I was confused -- how is this possible? I couldn't blow it off this time (turns out they are fairly important for astrophotography), so I did some learnin' -- turns out it's not a scam! It's a real thing, and here's how it works:
 
+<!--more-->
+
 First a quick review of a basic lens. This is a basic diagram of a converging lens from wikipedia:
 
 <img src="/images/Lens1.svg" alt="simple converging lens" />
