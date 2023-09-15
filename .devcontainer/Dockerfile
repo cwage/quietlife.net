@@ -12,7 +12,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 # property in devcontainer.json to use it. On Linux, the container user's GID/UIDs
 # will be updated to match your local UID/GID (when using the dockerFile property).
 # See https://aka.ms/vscode-remote/containers/non-root-user for details.
-ARG USERNAME=vscode
+ARG USERNAME=cwage
 ARG USER_UID=1000
 ARG USER_GID=$USER_UID
 
@@ -39,6 +39,7 @@ RUN apt-get update \
     && apt-get install -y sudo \
     && echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME\
     && chmod 0440 /etc/sudoers.d/$USERNAME \
+    && chown -R $USERNAME /usr/local/bundle \
     #
     # Clean up
     && apt-get autoremove -y \
