@@ -15,7 +15,9 @@ tags:
 Intro
 -----
 
-Disclaimer: I am not a project manager. I'm a devops/SRE/security type guy. I could barely explain to you the difference between "agile" and "waterfall" (in practice, anyway). These opinions come from someone that has spent 20 some odd years using every manner of PM tool under the sun in some capacity -- whether as a manager, a developer, an engineer, or all of the above. This is not a solution or a manifesto (I think). It's ungenerous, a complaint, an airing of grievances and a summary of my PTJD (Post Traumatic Jira Disorder).
+Disclaimer: I am not a project manager. I'm a devops/SRE/security type guy. I could barely explain to you the difference between "agile" and "waterfall" (in practice, anyway). These opinions come from someone that has spent 20 some odd years using every manner of PM tool under the sun in some capacity -- whether as a manager, a developer, an engineer, or all of the above. This is not a solution or a manifesto (I think). It's ungenerous, a complaint, an airing of grievances and a summary of my PTJD (Post Traumatic Jira Disorder). So, let's get into it:
+
+<!--more-->
 
 Jira
 ----
