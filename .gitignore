@@ -41,3 +41,7 @@ validation-report.json
 node_modules
 bower_components
 .jekyll-cache
+
+# Docker
+.docker
+docker-compose.override.yml

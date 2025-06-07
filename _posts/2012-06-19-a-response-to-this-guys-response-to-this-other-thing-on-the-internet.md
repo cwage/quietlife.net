@@ -49,7 +49,19 @@ Fortunately for you, dear reader, I'm stopping here. You can, too. The rest of h
 
 The music industry has changed. The world has changed. Emily White is telling us the way this new world works, for her, the consumer. David Lowery seems intent on ignoring it. My intent is to shame and embarrass him.
 
-**UPDATE:** [Steve Albini's response][3].
+~~**UPDATE:** [Steve Albini's response][3].~~
+
+The above link is dead, so here's Steve's response. (RIP Steve):
+
+```
+In addition to vastly overstating the generosity of record labels toward artists in the old paradigm, Lowery openly sneers at the booming avenues for income that define the new music industry, merchandising and live performance.
+
+As is true every time an industry changes, the people who used to have it easy claim the new way is not just hard for them but fundamentally wrong. The reluctance to adapt is a kind of embarrassing nostalgia that glosses over the many sins of the old ways, and it argues for a kind of pity fuck from the market.
+
+It's doomed thinking. When it became obvious that the studio recording industry was not going to remain an analog domain, we built Electrical Audio to be as self-sufficient as possible so we could continue to use those methods we thought had important advantages despite changes in the greater industry. We didn't whine at the moon and expect the rest of the industry to indulge us. We also bought a Pro Tools rig to accommodate the sessions that weren't going to be done in the analog domain regardless.
+
+Adapt to conditions or quit. Bitching is for bitches.
+```
 
 **UPDATE 2:** More:
 
