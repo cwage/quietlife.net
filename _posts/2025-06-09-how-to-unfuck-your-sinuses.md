@@ -4,7 +4,7 @@ title: how to unfuck your sinuses
 author: cwage
 layout: post
 guid: http://quietlife.net/?p=4253
-permalink: /2023/07/12/how-to-unfuck-your-sinuses
+permalink: /2025/06/09/how-to-unfuck-your-sinuses
 categories:
   - Uncategorized
 tags:
@@ -23,7 +23,7 @@ In short, this is an attempt to summarize some techniques for dealing with uncoo
 
 ## My Story
 
-<details><summary>Feel free to skip this, but a brief history of my medical trajectory where it pertains to sinus/allergy problems. Click the arrow on the left to expand:</summary>
+<details><summary>Feel free to skip this, but a brief history of my medical trajectory where it pertains to sinus/allergy problems. [Click to expand ▼]</summary>
 
 <ul>
 <li>As a kid, I was "allergic" to a lot of things: milk, grass, dogs. All pretty much went away (or i "got used to it", who can say) with later childhood/early adolescence.</li>
