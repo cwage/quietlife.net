@@ -1,0 +1,13 @@
+version: '3'
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: .devcontainer/Dockerfile
+    volumes:
+      - .:/workspaces/quietlife.net
+    working_dir: /workspaces/quietlife.net
+    ports:
+      - "4000:4000"
+    command: >
+      bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"
