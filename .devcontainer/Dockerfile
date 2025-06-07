@@ -41,6 +41,11 @@ RUN apt-get update \
     && chmod 0440 /etc/sudoers.d/$USERNAME \
     && chown -R $USERNAME /usr/local/bundle \
     #
+    # Install Jekyll and setup workspace
+    && gem install bundler jekyll \
+    && mkdir -p /workspaces \
+    && chown -R $USERNAME:$USERNAME /workspaces \
+    #
     # Clean up
     && apt-get autoremove -y \
     && apt-get clean -y \
