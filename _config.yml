@@ -9,10 +9,16 @@ description:         'What we honor as prudence in our elders is simply panic in
 url:                 http://quietlife.net
 baseurl: /
 paginate:            5
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-commonmark]
 url: "http://quietlife.net" # the base hostname & protocol for your site
 include: [".well-known", "images"]
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-commonmark]
+
+# Markdown
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 # About/contact
 author:
