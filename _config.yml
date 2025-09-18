@@ -12,7 +12,6 @@ paginate:            5
 plugins: [jekyll-paginate, jekyll-commonmark]
 url: "http://quietlife.net" # the base hostname & protocol for your site
 include: [".well-known", "images"]
-gems: [jekyll-paginate, jekyll-commonmark]
 
 # Markdown
 markdown: CommonMark
