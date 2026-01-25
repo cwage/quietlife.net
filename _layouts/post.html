@@ -5,18 +5,7 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  {% if page.content contains '<!--more-->' %}
-    <div>
-        {{ page.content | split:'<!--more-->' | first }}
-    </div>
-    <input type="checkbox" class="read-more-state" id="{{ page.url }}"/>
-    <div class="read-more">
-        {{ page.content | split:'<!--more-->' | last }}
-    </div>
-    <label for="{{ page.url }}" class="read-more-trigger"></label>
-{% else %}
-    {{ page.content }}
-{% endif %}
+  {{ page.content }}
 </div>
 
 <div class="PageNavigation">
