@@ -25,8 +25,6 @@ In short, this is an attempt to summarize some techniques for dealing with uncoo
 
 ## My Story
 
-<details><summary>A brief history of my medical trajectory with sinus/allergy problems (feel free to skip)</summary>
-
 <ul>
 <li>As a kid, I was "allergic" to a lot of things: milk, grass, dogs. All pretty much went away (or i "got used to it", who can say) with later childhood/early adolescence.</li>
 <li>Age ~16: I have my first incidence of urticaria (hives) in class. Ran to class late, hot classroom, hives developed.</li>
@@ -38,8 +36,6 @@ In short, this is an attempt to summarize some techniques for dealing with uncoo
 <li>Despite lifechanging (literally) improvements from surgery, urticaria and occasional sinus infections persist. my ability to prevent/deter and manage the infections improves (more on that later, the main point of this post). </li>
 <li>Subsequent followups to specialists occur. Do I have lupus? Maybe gleevec (Imatinib Mesylate -- a drug regulating eosinophil production used to treat leukemia patients) will work? Do I have leukemia?! (i did not have leukemia) Nothing really helps or changes except for ongoing treatment. Symptoms persist but have diminished somewhat with later adulthood -- partially because I've learned what not to do and how to manage it.</li>
 </ul>
-
-</details>
 
 ## Some Background
 
