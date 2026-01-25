@@ -41,8 +41,6 @@ validation-report.json
 node_modules
 bower_components
 .jekyll-cache
-vendor/bundle
-.bundle
 
 # Docker
 .docker
