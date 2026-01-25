@@ -16,7 +16,7 @@ include: [".well-known", "images"]
 # Markdown
 markdown: CommonMark
 commonmark:
-  options: ["SMART", "FOOTNOTES"]
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
   extensions: ["strikethrough", "autolink", "table"]
 
 # About/contact
