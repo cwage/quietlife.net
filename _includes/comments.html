@@ -1,0 +1,16 @@
+{% capture slug %}{{ page.url | slugify }}{% endcapture %}
+
+<hr>
+<h3>Comments</h3>
+
+{% if site.data.comments[slug] %}
+  {% for comment_hash in site.data.comments[slug] %}
+    {% assign comment_id = comment_hash[0] %}
+    {% assign comment = comment_hash[1] %}
+    {% if comment.reply_to == nil or comment.reply_to == "" %}
+      {% include comment.html comment_id=comment_id comment=comment slug=slug %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p>No comments yet.</p>
+{% endif %}
