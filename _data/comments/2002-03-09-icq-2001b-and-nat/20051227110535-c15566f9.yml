@@ -1,0 +1,10 @@
+name: Dolphin
+body: I found this board, trying to help a friend with his ICQ file transfer problems
+  from behind the NAT. Port forwarding is set all right, messaging goes through just
+  fine, but file transfers don't. The problem it seems is that ICQ ignores port range
+  settings for file transfers, and still uses random ports. It's now almost **FOUR
+  YEARS** since this bug is well-known, and ICQ developers still did nothing about
+  it!!! :( I will have to advice him to use Trillian or some other alternative ICQ
+  client...
+date: '2005-12-27T11:05:35Z'
+slug: 2002-03-09-icq-2001b-and-nat

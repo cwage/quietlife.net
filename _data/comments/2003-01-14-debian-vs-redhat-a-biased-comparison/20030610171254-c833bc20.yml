@@ -1,0 +1,36 @@
+name: Kenny
+body: |-
+  Stability
+
+  Like Debian, RedHat is also committed to the
+  [Filesystem Hierarchy Standard](http://www.redhat.com/docs/manuals/linux/RHL-9-Manual/ref-guide/s1-filesystem-fhs.html "http://www.redhat.com/docs/manuals/linux/RHL-9-Manual/ref-guide/s1-filesystem-fhs.html") and they have been since 2000. I think RedHat followed
+  the FSSTND (FHS precursor) at lease since 1995, because that's the first time I noticed it. Any package in the RedHat distribution conforms to the FHS, but if you dowload your packages from
+  a shady website, I doubt they'll make any promises at to the integrity :-)
+
+  On the release cycle issue: RedHat does have a "stable" equivalent in their [Enterprise Linux line](http://www.redhat.com/software/rhel/ "http://www.redhat.com/software/rhel/"), but it costs money (from $179 for
+  Workstation Basic to $2499 for Advanced Server Premium Edition) to get the precompiled binary CDs. You can still download the source and compile it all yourself, but who wants to do that?
+
+  Security
+
+  I don't know if you noticed this on the security focus webpage:
+
+  The numbers presented below should not be considered a metric by which an accurate comparison of the vulnerability of one operating system versus another can be made.
+
+  The way they index their vulnerabilities is misleading and I can see where you could get tripped-up. If you look below the first table, it shows Red Hat 7.0 at 28 vulnerabilities and Debian 2.2 at 26
+  vulnerabilities which seems to be at odds with the table above it. I think the main purpose of this graph is to show how important they ([securityfocus.com](http://securityfocus.com "securityfocus.com")) will be and continue to be in the future
+  for reporting vulnerabilities.
+
+  Services
+
+  Apt is available on RedHat, too. [FreshRPMs's Apt Repository](http://apt.freshrpms.net/ "http://apt.freshrpms.net/") being my favorite. Enough said.
+
+  Miscellaneous
+
+  The default Apache package has the correct layout, and when you use your own, you should compile with the correct filesystem layout. Not sure where you had this problem.
+
+  /etc/sysconfig seems pretty easy to me and very handy.
+
+  Since the FSSTND or FHS didn't define where the startup scripts should go, I think RedHat people thought it would be more intuitive in the long run
+  to have everything under one directory: /etc/rc.d. A lot of people griped later and they added in the symlink.
+date: '2003-06-10T17:12:54Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

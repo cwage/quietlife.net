@@ -1,0 +1,33 @@
+name: Sadiq
+body: |-
+  I am not sure if you have used a Red Hat system. I don't use Red Hat coz I don't need to pay for it. I use Fedora 7. If you have used it, yum is much more intuitive than apt.
+
+  For example: to search and install Firefox in Debian:
+  # apt-get update
+  # apt-cache search firefox
+  # apt-get install firefox
+
+  To do the same in Fedora?
+  # yum search firefox
+  # yum install firefox.i386
+
+  It takes care of dependencies.
+  How do you add repositories? Don't need to go to /etc/apt/sources.list file and edit it.
+  Just go to your required website: for example [www.freshrpms.net](http://www.freshrpms.net "www.freshrpms.net")
+  download the repository rpm file.
+  add it to your repository by entering:
+  # rpm -Uvh freshrpms\_repository.rpm
+
+  I have used Debian and I still use it. I use Fedora as well. Both are excellent distributions.
+  It is lame to see that people make noise about the inefficiency of RedHat and none of the RedHat/Fedora users retort.
+
+  Fedora/RedHat wins for me because:
+  1. Majority of the Linux Servers have RedHat deployed on them.
+  2. Fedora is consistently in the top 5 distros on Distrowatch.
+  3. Two of the all time BIG distros were based of RedHat/Fedora: Mandrake/Mandriva and SuSE.
+  4. The currently number 1 distro, PC Linux OS 2007 is based partly on Mandriva and partly on RedHat and uses RPM packages.
+
+  All this INSPITE of Debian users making all the noise in most of the sites.
+  \*Don't get me wrong here: I am a Debian fan, coz I am just crazy about Linux.
+date: '2007-10-31T17:52:53Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

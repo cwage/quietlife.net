@@ -1,0 +1,13 @@
+name: cwage
+body: |-
+  As far as messages we can handle, basically our cost and price model makes the total bandwidth we use per month our limiting factor -- we will run up against that per-server before we ever have to worry about server load, so I haven't done any extensive tests of throughput beyond just satisfying myself that it could handle a sustained thrashing from smtp-sink and smtp-source.
+
+  Basically, I can afford to throw more servers at it before the load on any one server is really a factor..
+
+  Users have control over everything via the web interface. Users can change score thresholds, options for labelling vs. quarantining, disable/enable both spam and virus filtering, etc etc. Spam is kept in a quarantine for review (and release of any false negatives) and conversely a "cache" of non-spam that was delivered is also kept, for confirmation.
+
+  Once confirmed, these messages are fed back into the system to be trained hourly by the bayesian stuff as non-spam or spam.
+
+  This goes for messages in the spam quarantine that the user identifies as a false positive, which are also then released to the user for delivery unmodified.
+date: '2004-11-01T23:21:43Z'
+slug: 2004-10-14-swirbo

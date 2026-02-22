@@ -1,0 +1,11 @@
+name: Kynn
+body: |-
+  Yeah, see, Chris, you're all wrong because it's not INFINITELY slower. It's just FINITELY slower.
+
+  Generating pages each time (especially without caching them) is going to be a performance lose. Maybe unpopular websites can afford to do this, or sites with huge load-balancing server clusters backing them up. But mid-size sites have to keep this in mind, especially if they may experience periodic rushes and thus performance hits. (As with NiT.)
+
+  I don't know what host you're specifically referring to, or the page being generated, but you do know, Empresa Peruana, that your anecdotal evidence of 0.03 seconds isn't really a useful statistic for, like, anything?
+
+  --Kynn
+date: '2007-02-07T01:15:53Z'
+slug: 2007-02-02-nit-on-wordpress

@@ -1,0 +1,10 @@
+name: cwage
+body: 'I used the numbers from [nutritiondata.self.com](http://nutritiondata.self.com
+  "nutritiondata.self.com"), which seem to have a lot of weird problems -- for example,
+  they are using something like 11.1/2.37/3.62 fat/protein carbs kcal/g instead of
+  the more traditional 9/4/4 .. no idea why. The data I used is here: [https://docs.google.com/a/q...](https://docs.google.com/a/quietlife.net/spreadsheet/ccc?key=0ArWap2LlXk71dGw0VWdTX0xmS0pGZFRQTkozN1NnZHc#gid=0
+  "https://docs.google.com/a/quietlife.net/spreadsheet/ccc?key=0ArWap2LlXk71dGw0VWdTX0xmS0pGZFRQTkozN1NnZHc#gid=0")
+  -- I''d rerun it with the DB above but I''m lazy.'
+date: '2013-04-03T20:50:43Z'
+slug: 2013-04-03-vegetable-protein
+reply_to: 20130403204201-f07605b8

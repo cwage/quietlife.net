@@ -1,0 +1,9 @@
+name: cwage
+body: |-
+  > it takes very little savvy to search for “Please enter \* without the quotes.” if you’re interesting in scripting a spambot to defeat this. I can’t program a lick, but I bet I could do it in an hour or so.
+
+  As I said before: *It’s easily defeated by spammers with more free time than me, intent on specifically spamming my blog. This is almost guaranteed to never happen.*
+
+  This is not a plugin designed to keep people from commenting on my blog. It's a plugin designed to eliminate automated comment spam. Any script you write to specifically spam my blog is as easily broken by changing the phrase or word as it was for you to write.
+date: '2006-12-08T16:35:25Z'
+slug: 2006-12-04-comment-verification

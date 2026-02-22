@@ -1,0 +1,9 @@
+name: cwage
+body: |-
+  Well, it would require cooperation on both ends: the web (pr0n) server side, as well as the client side, and the client side is the one that would be running the filtering software to begin with..
+
+  It does raise an interesting question though, of what would happen if the filtering software sent the resets to the webserver, were ignored, and then sent forged packets back to the client with the blockpage -- since the webserver would \*also\* still send its reply (since it ignored the resets). I'm guessing TCP seqid mismatch/dupe errors and a dropped connection, but who knows.. Pretty whacky.
+
+  In retrospect, I don't really think it's a very viable strategy for defeating censorship (there are more direct ways), but it's interesting to contemplate..
+date: '2006-07-08T02:54:16Z'
+slug: 2006-07-02-ignoring-the-wall

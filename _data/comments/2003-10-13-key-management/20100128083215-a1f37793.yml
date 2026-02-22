@@ -1,0 +1,7 @@
+name: Benny
+body: It isn't entirely clear to me how you would use this USB stick in a real ComputerCenter
+  ? Where multiple people actually manage the same set of servers and where 'autofs'
+  probably isn't possible because it requires firewall 'liberties' that are probably
+  less pleasant (RPC range) than the security issue you object to. FAIL !
+date: '2010-01-28T08:32:15Z'
+slug: 2003-10-13-key-management

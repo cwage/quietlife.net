@@ -1,0 +1,11 @@
+name: cwage
+body: |-
+  Postfix of course, y es, and the relay stuff is kept per-account in sql..
+
+  We're using spamcop, but only in contextual searches, along with many other more aggressive blacklists. I don't consider spamcop to be responsible enough to use as a blacklist at the MTA-level.
+
+  We're using clamscan, yes, and it's doing spectacularly, buy we are looking at incorporating some commercial virus scanners anyway.
+
+  Privacy policy and some other info on the site is forthcoming..
+date: '2004-10-31T16:21:27Z'
+slug: 2004-10-14-swirbo

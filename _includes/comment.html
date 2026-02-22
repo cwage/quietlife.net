@@ -1,0 +1,19 @@
+<div class="comment" id="comment-{{ include.comment_id }}">
+  <div class="comment-meta">
+    <strong>{{ include.comment.name }}</strong> &mdash;
+    <a href="#comment-{{ include.comment_id }}">{{ include.comment.date | date: "%B %d, %Y at %H:%M" }}</a>
+    {% if include.comment.reply_to %}
+      &middot; in reply to <a href="#comment-{{ include.comment.reply_to }}">{{ include.comment.reply_to }}</a>
+    {% endif %}
+  </div>
+  <div class="comment-body">
+    {{ include.comment.body | markdownify }}
+  </div>
+  {% for reply_hash in site.data.comments[include.slug] %}
+    {% assign reply_id = reply_hash[0] %}
+    {% assign reply = reply_hash[1] %}
+    {% if reply.reply_to == include.comment_id %}
+      {% include comment.html comment_id=reply_id comment=reply slug=include.slug %}
+    {% endif %}
+  {% endfor %}
+</div>

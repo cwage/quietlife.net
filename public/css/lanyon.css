@@ -579,3 +579,39 @@ a.pagination-item:hover {
 .PageNavigation .next {
     text-align: right;
 }
+
+
+/*
+ * Comments
+ */
+
+.comment {
+  margin-top: 1rem;
+}
+
+.comment .comment {
+  margin-left: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #ccc;
+}
+
+.comment-meta {
+  font-size: .85rem;
+  color: #9a9a9a;
+  background-color: #f5f5f5;
+  padding: .4rem .6rem;
+  margin-bottom: .75rem;
+}
+
+.comment-meta strong {
+  color: #303030;
+}
+
+.comment-body {
+  font-size: .95rem;
+  padding-left: .6rem;
+}
+
+.comment-body p:last-child {
+  margin-bottom: .5rem;
+}

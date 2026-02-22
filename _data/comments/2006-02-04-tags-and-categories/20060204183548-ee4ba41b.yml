@@ -1,0 +1,6 @@
+name: Jackson
+body: I had to run SQL statements to move all of the tag data from serendipity to
+  Wordpress, but there was no migration tool so i had to do the same thing with posts,
+  comments, and categories.
+date: '2006-02-04T18:35:48Z'
+slug: 2006-02-04-tags-and-categories
