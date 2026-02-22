@@ -1,0 +1,7 @@
+name: cwage
+body: |-
+  Hm, okay, then I guess that wp\_delete\_comment() function didn't exist in 1.5 -- I will have to figure out if there was equivalent functionality in 1.5 and add that back for older versions
+
+  For now, it probably won't work for 1.5
+date: '2006-01-11T21:40:48Z'
+slug: 2005-12-07-wordverify

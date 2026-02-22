@@ -1,0 +1,9 @@
+name: Richard Bourke
+body: |-
+  Chris - I think you should put more comments in your code.
+
+  What happens is that you understand the code completely and inside-out when you first write it. But a month later, you'll look back at it, and not have a clue why you wrote it the way you did.
+
+  The best type of comments say why you coded it in a certain way, not just what you're doing.
+date: '2002-11-01T07:29:22Z'
+slug: 2002-09-23-kr-code

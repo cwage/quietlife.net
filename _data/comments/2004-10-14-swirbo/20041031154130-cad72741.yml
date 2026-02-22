@@ -1,0 +1,7 @@
+name: stega
+body: so I'm assuming the system is postfix on Linux and you have some nice scripts
+  to adjust the relay transport and relay tables or you're relying on LDAP. What's
+  the back end filtering--clamscan and spamcop? Also, there's no privacy policy on
+  the site.
+date: '2004-10-31T15:41:30Z'
+slug: 2004-10-14-swirbo

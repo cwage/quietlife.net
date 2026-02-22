@@ -1,0 +1,11 @@
+name: cwage
+body: |-
+  There is a way around this -- by testing whether or not the shell is a "login" shell and then making sure you only clobber the symlink if it's a login shell.
+
+  Then you have to make sure that, say, your first xterm runs a "login" shell, but every one after that is **not** a login shell -- including others in screen..
+
+  Make sense?
+
+  Of course, I say this, but I never quite got it working right. I'll try to fix my .bash\_profile one of these days and post an update..
+date: '2005-05-27T12:10:20Z'
+slug: 2002-07-02-ssh-special

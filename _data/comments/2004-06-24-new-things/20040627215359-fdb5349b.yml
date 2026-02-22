@@ -1,0 +1,7 @@
+name: Manish
+body: |-
+  You should be able to redirect a port on a netgear for sure as I have one and it seems to think that its capable of doing this (though I haven't actually tried it). Your kind of out of luck with the physical interface..my dsl provider at home gives me two static IP addresses, and I'm trying to figure out a good way to take advantage of it without breaking the bank.
+
+  In terms of Windows, are you familiar with the event viewer? Its not wonderful, but its a start sometimes.
+date: '2004-06-27T21:53:59Z'
+slug: 2004-06-24-new-things

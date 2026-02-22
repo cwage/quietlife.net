@@ -1,0 +1,7 @@
+name: aldon
+body: |-
+  No, I didn't know that. Most people can access my page without problems. However, since it is on a non-standard port, 8000, people behind certain types of firewalls cannot access the page.
+
+  You should make sure that you have access to port 8000. You might also want to make sure you have access to port 8180 which is where my blog currently is.
+date: '2003-10-10T15:23:24Z'
+slug: 2003-10-10-fat-cats

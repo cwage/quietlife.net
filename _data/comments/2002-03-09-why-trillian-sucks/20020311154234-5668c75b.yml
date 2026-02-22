@@ -1,0 +1,13 @@
+name: Mithrandir
+body: |-
+  First, let me say that in principle, I agree 100% with chris on this one. The problem isn't the AIM client, or ICQ or Yahoo, or yadda yadda. The problem is two-fold: #1)the proliferation of multiple IM networks in use among the general public, and #2)the proprietary nature of these networks, which gives them the ability to control the medium entirely. Trillian does a pretty damn good job of fixing #1. I have a bunch of friends that use ICQ, and another bunch that use AIM, and so on. I don't feel that I should have to deal with a bunch of different clients/interfaces/networks in order to communicate with the entirety of my circle of friends & coworkers. Enter some third party client that allows you to tie into all of them at once behind a single user interface and you have Trillian. High marks so far.
+
+  But it actually makes problem #2 worse as chris elaborated on above. And I'm all for getting off these crappy networks and using something like Jabber that actually addresses both problems.
+
+  However, I have yet to have a good experience with either a Jabber client or server. So I'm sure as hell not going to reccomend to my wife or some other non-tech junkie that they should switch from the awful corporate IM networks to a system that is going to cause them no end of frustration for a long time until it gets developed. Sound familliar?
+
+  It's the same reason why it took me so long to come around to Linux. As engel and fozbaca can attest, I TRIED to use and like Linux for years. But the bottom line was that I could make my Windows box do EXACTLY what I wanted it to do about 95% of the time. Linux hadn't yet developed a sufficient level of "user-friendly" to make the transition smoothe and easy for me (until I found Progeny Debian and became a convert). Still, it's not a suitable desktop environment for 90% of the users out there. It's just not there yet. Period. Same with Jabber.
+
+  I hope that enough people will cling to the ideas behind Jabber long enough for it to develope as Linux has. If that happens, we just might eventually see a transition of it into the mainstream, as is happening more and more with Linux.
+date: '2002-03-11T15:42:34Z'
+slug: 2002-03-09-why-trillian-sucks

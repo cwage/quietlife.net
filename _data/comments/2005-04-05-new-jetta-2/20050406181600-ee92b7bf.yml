@@ -1,0 +1,7 @@
+name: cwage
+body: |-
+  Well, when I moved to wordpress the location moved.. I tried redirecting it via Apache, but evidently that didn't work out too well..
+
+  [http://chris.quietlife.net/...](http://chris.quietlife.net/wp-rss.php "http://chris.quietlife.net/wp-rss.php") is RSS 0.92 and [http://chris.quietlife.net/...](http://chris.quietlife.net/feed "http://chris.quietlife.net/feed") is the RSS 1.0 feed.
+date: '2005-04-06T18:16:00Z'
+slug: 2005-04-05-new-jetta-2

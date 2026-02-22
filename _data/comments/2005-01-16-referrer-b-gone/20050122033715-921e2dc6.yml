@@ -1,0 +1,7 @@
+name: Derwood
+body: |-
+  Thanks for the pointers on this. I can see it helping in the apache logs already.. heh..
+
+  Now, if we could somehow combine this with MT-Blacklist so that we could get list of IPs that have sent comment spam and make our own comment spam DNSBL.. Heck, if I could get a list of IPs, I could incorporate it into my BIND config files and make my own DNSBL. I'll have to think on that process..
+date: '2005-01-22T03:37:15Z'
+slug: 2005-01-16-referrer-b-gone

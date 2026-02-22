@@ -1,0 +1,12 @@
+name: cwage
+body: |-
+  It's trivial.
+
+  Edit your /etc/apt/sources.list and replace all instances of "woody" with "sarge" -- or if you've already got "stable", you can leave it:
+
+  apt-get update
+  apt-get dist-upgrade
+
+  Check the [Release notes](http://www.debian.org/releases/sarge/releasenotes "http://www.debian.org/releases/sarge/releasenotes") for specifics, though.
+date: '2005-06-06T22:30:28Z'
+slug: 2005-06-06-debian-sarge

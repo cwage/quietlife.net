@@ -1,0 +1,15 @@
+name: houms
+body: |-
+  don't make me laugh. Seriously, anyone with any experience on both systems will tell you that rpm based distros cannot touch the apt system when it comes to dependency resolution. I just can't stop laughing at your assertion.....the apt-get update is not necessary in your example...your giving the impression that a apt-get update is necessary before searching for a package.... That's just not the case...whats worse is you reasons why fedora/red hat "wins"...
+
+  majority of linux servers have redhat installed on them....according to who?
+
+  fedora is consistently on the top 5 distros of distrowatch... truly ROFL, any person with some sense would tell you that basing your conclusion on distrowatch is extremely naive. And Lets be quite honest. Isn't fedora really just a unstable or testing bed for the next redhat release? gotta love how red hat uses the community by releasing fedora as a community distro, when they just want the community to test there packages so that they can add these packages to redhat releases later. Similar to opensuse and Suse Linux. Gotta love that business model...
+
+  Two of the all time Big distros were based on redhat/fedora.... really? I just thought they used the same packaging system (RPM). didnt know they were based on redhat like fedora or centos.... one could argue that Debian is the Biggest distro.. depending on what you define big as.
+
+  finally PClinux is no longer #1 on your beloved distrowatch, ubuntu is.... which is Debian based....so does that mean that Debian wins out now...???be for real
+
+  I just want to thank the author of the article for providing your experience with the two different distros... I think it embodies a lot of the issues that many of us have also had. And a lot of it still holds true.
+date: '2008-08-01T15:16:30Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

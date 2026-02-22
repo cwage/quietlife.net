@@ -1,0 +1,10 @@
+name: me
+body: |-
+  How does the following in .sawfishrc work:
+
+  (setq warp-to-window-enabled t)
+   (setq warp-to-window-offset (cons +8 +13))
+
+  I agree with your statements about sawfish; great window manager, dropped off the planet.
+date: '2004-02-16T07:03:40Z'
+slug: 2003-11-03-sawfish

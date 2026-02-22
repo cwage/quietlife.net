@@ -1,0 +1,9 @@
+name: Quix0r
+body: |-
+  As Chris wrote: The most comment spam is automated. So the bots are sending their POST-request to **wp-comments.php**, right?
+
+  My idea for my anti-spam plugin was that I insert a blog-unique authorization key into the "action" part of the form-tag. E.g.: **wp-comments-post-xxxxx.php**. By *xxxxx* is around 50 chars long and a salted MD5/SHA1 hash from many "unique" data like your server's IP number, the modification timestamp of the plugin and the constant WP\_SECRET (plus an own secret key which you have typed).
+
+  This plugin is currently stopping 99.9% of my comment spam here. :)
+date: '2006-12-05T08:41:30Z'
+slug: 2006-12-04-comment-verification

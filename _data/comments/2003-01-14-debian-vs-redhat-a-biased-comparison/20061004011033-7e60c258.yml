@@ -1,0 +1,11 @@
+name: Carlos Konstanski
+body: |-
+  Three bloat factors are: how many packages are installed, how many are running, and how bloated is the kernel?
+
+  A minimal debian install is leaner than a minimal redhat install. With a minimal debian install, you still have enough power to easily expand the system,thanks to the deep dpkg integration. Starting minimal and growing slow is a pain with RPM-based distros. Gentoo is like debian in this respect; portage is at the very core, and you use it to build the entire load. As long as you have apt (or portage) and an internet connection, you are in business.
+
+  Since you have less installed on a fresh debian install, you have fewer services running. Why is canna turned on by default on redhat? Why is it even installed?
+
+  Any distro kernel is going to be a bloated pig. It needs to run on a wide variety of hardware, after all. The faster you can build a trim kernel, the better. If you do this on redhat, you will void your support contract. Once again, gentoo is Cool Like That. You have to do a custom kernel build during a gentoo install, as there is no other choice. On the subject of bloat, it is nice to have a kernel that requires no initrd image. With redhat you are stuck.
+date: '2006-10-04T01:10:33Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

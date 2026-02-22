@@ -1,0 +1,7 @@
+name: Chris Wage
+body: |-
+  Strictly speaking, it won't help anything in your logs, save making it easier to filter out -- the referer is still shown, except it yields a 403 instead of a 200 OK.
+
+  Using this module is more useful for just preventing the 200 OK send the entire page as data every time it's requested and decimating your bandwidth.
+date: '2005-01-23T21:11:03Z'
+slug: 2005-01-16-referrer-b-gone

@@ -1,0 +1,16 @@
+name: Jer
+body: |-
+  Hello,
+
+  I try to install word verify. on WP 2.0.1
+  I active the plugin I go to the option and write :
+
+  Security code word: test
+  Presentation: write %%CODEWORD%% please
+
+  I press update options.
+  But I have no text field under the comment textarea.
+
+  There is something more to do ?
+date: '2006-03-05T19:20:26Z'
+slug: wordverify

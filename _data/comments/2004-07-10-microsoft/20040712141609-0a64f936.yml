@@ -1,0 +1,18 @@
+name: Leif
+body: |-
+  Microsoft has, for far to long, put usability before security. You see the opposite with Linux, both ways have their flaws. Arguably the Linux approach is better, but we'll likely never see a large number of linux based desktops to prove that point for a number of reasons. Microsoft is really trying in some cases though, XP SP2 is impressive, and Server 2003 is locked down by default.
+
+  If you want specifics about what they've done wrong.
+  <ul>
+  <li>Integrating Internet Explorer into the Windows shell so that holes in the IE zone security model affect the OS as a whole.</li>
+  <li>ActiveX. Must have sounded really cool back in the day, web deployable apps that could hook into the power of Windows. Of course that awesome technology has essentially no security model and is responsible for the proliferation of many pieces of mal/spyware (and pr0n dialers)</li>
+  <li>Making it a pain in the ass to run as a low privledge user for day to day tasks. In all fairness this is just as much the fault of third party developers as it is Microsoft though</li>
+  </ul>
+
+  Regarding Balmer's quote, I have to disagree with you. 95% of the PC using population will never upgrade their OS from OEM preinstall. They buy the thing at CompUSA, they use it till they have some reason to upgrade, they upgrade, the cycle continues. Hardware requirements (for the OS) are something that matters only to geeks and pseudo-geeks (the people that watch TechTV). And you don't need 512M for XP. My primary box has 256M, and that is perfectly adequate until I'm running SQL Server and a development environment. Until a year ago I had a Celeron 333Mhz with 128M that ran XP decent, it wasn't a great experience, but it ran.
+
+  And with anything Longhorn, who cares, it's so far out that a $400 Dell will probably be 6Ghz dual core by the Longhorn launch.
+
+  Oh, one more thing. I am very curious about how MS plans to sell Office 2003. It offers nothing compelling if you aren't prepared to invest in XML data services, and I doubt most small business and home office users are going to make that investment.
+date: '2004-07-12T14:16:09Z'
+slug: 2004-07-10-microsoft

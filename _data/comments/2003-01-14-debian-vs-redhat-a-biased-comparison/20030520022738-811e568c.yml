@@ -1,0 +1,9 @@
+name: Solomon
+body: |-
+  Easy debian installation:
+
+  Grab a KNOPPIX ISO image at [http://www.knopper.net/knop...](http://www.knopper.net/knoppix/ "http://www.knopper.net/knoppix/")
+  This is a debian based linux, which can run live from CD. Just turn you machine on, insert the CD, and you've got it. To install it on the disk run (as root) knx-hdinstall
+  You don't need to know anything about your hardware. KNOPPIX figures it all up by itself!
+date: '2003-05-20T02:27:38Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison
