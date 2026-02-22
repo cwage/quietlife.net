@@ -1,0 +1,11 @@
+name: pof
+body: |-
+  ACPI with function keys for brightness wireless CRT/LCD, etc... worked fine for me with X300 and bios A04. Using a custom dsdt from [acpi.sf.net](http://acpi.sf.net "acpi.sf.net").
+
+  See my latitude x300 info page here: [http://pof.eslack.org/x300/](http://pof.eslack.org/x300/ "http://pof.eslack.org/x300/")
+
+  Regards,
+
+  Pau
+date: '2004-06-17T09:07:36Z'
+slug: 2004-05-29-linux-on-a-dell-x300

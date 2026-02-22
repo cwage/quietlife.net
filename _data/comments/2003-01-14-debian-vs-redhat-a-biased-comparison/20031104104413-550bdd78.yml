@@ -1,0 +1,27 @@
+name: cwage
+body: |-
+  > *I'd like to point out that Linux is NOT Linux; a familiar "standard" utility on RedHat may be a real pain to find anywhere on Debian. Or Mandrake. Or SuSE. (etc) This is one of the main reasons I've stuck with RedHat.*
+
+  That's just not true.. What sort of "standard" utility does RedHat have that Debian doesn't? More often than not, I have discovered the opposite to be true, where installations of Redhat were missing things like tcpdump or libpcap (often this was just because the person (not me) that installed it didn't include this). And because I didn't have apt, it was a pain to go out and find the package for what I needed, as opposed to "apt-get install tcpdump".
+
+  When you're talking about portability of packages/binaries in Linux, there are really three concerns:
+
+  1) Executable format -- i.e., is the binary ELF or a.out, and does your kernel support it.
+
+  2) Library dependencies -- is it linked dynamically or statically? If dynamically, are the libraries it needs installed and in the library path?
+
+  3) Arbitrary config file location dependencies. This is where you can get bitten, but it's rare and the fault lies with the packager or programmer because it goes against the whole point of UNIX organization. Config files go in /etc/, system binaries go in /bin, etc. Put something in a non-standard place and rely on it being there and you are asking for trouble.
+
+  > *The other few reasons are:
+  > ...
+  > -> apt problems:
+  > - what is program {x} called in the Debian world?*
+
+  Read "man apt-cache". "apt-cache search <keyword>"
+
+  > *- I need x, but absolutely CANNOT run one of its
+  > requirements y.*
+
+  In Debian, a package only depends on packages it absolutely must have to run. Often this is in the form of libraries. If a package is depending on a package that is not absolutely necessary to run, it was mispackaged -- they should have used Recommends: or Suggests:, but I have never run into this. If you want to run a package but you absolutely cannot install the dependent libraries, then your only other option is to download the source (and the appropriate dev packages that the source will inevitably depend on) and compile it yourself. See the man page for "apt-get" for more info on "apt-get source".
+date: '2003-11-04T10:44:13Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

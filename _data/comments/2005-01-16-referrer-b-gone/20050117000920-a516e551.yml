@@ -1,0 +1,13 @@
+name: tom sherman
+body: |-
+  Chris,
+
+  Great stuff! And slightly beyond my ken, so I'm glad to someone more technical than myself thinking about this as well. I will disagree with your disagreement with me, however. :)
+
+  > Trying to get spammers to stop referrer-spamming by convincing people to stop posting referrer info is like thinking that e-mail spam could be stopped if most people would just ignore it.
+
+  I think a better analogy would be to try to combat e-mail spam by telling people not to read their e-mail. If people didn't read their e-mail, then yes, sending spam e-mails would be pointless. Similarly, if people didn't publish their referrer logs, sending referrer spam would be pointless. (I can't believe that spammers are putting this much effort into referrer spamming just to get *webmasters* click to click on spam URLs from password-protected stats pages.)
+
+  As to incorporating DNS blacklists into .htaccess (great write-up!)—how does that affect response time? Seems like it might slow things down a bit?
+date: '2005-01-17T00:09:20Z'
+slug: 2005-01-16-referrer-b-gone

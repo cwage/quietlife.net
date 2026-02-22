@@ -1,0 +1,8 @@
+name: Omar
+body: |-
+  Using
+  Preferences -> Mouse and Keyboard -> Keyboard Setup -> Advanced -> Form
+  I tried to bind "w ctrl" to "Delete word" by adding an entry. It's not deleting the word, but it did disable the window closing; good enough for now.
+  (Opera 7.54/FreeBSD)
+date: '2005-03-07T18:04:09Z'
+slug: 2003-11-11-opera-tip

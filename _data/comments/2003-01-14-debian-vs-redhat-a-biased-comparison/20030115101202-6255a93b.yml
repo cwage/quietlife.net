@@ -1,0 +1,9 @@
+name: Chris Wage
+body: |-
+  Well, the short answer is: check out [http://www.debian.org/CD/faq/](http://www.debian.org/CD/faq/ "http://www.debian.org/CD/faq/").
+
+  The longer answer is: You can buy one, or you can use this tool called "jigdo", which is how Debian recommends getting an ISO. Basically, it's a tool that lets you configure an ISO with the packages that you want, pulls them down, and builds the ISO for you. This is nice, because you can make either a full big fat CD with everything, or a lightweight net-install CD. It also ensures you get the latest packages on your ISO.
+
+  But, you can still do the floppy install, if you want.. It takes around 6 floppies to get the net install going (I am still unclear exactly on why OpenBSD can do this with one floppy, but Debian GNU/Linux takes six, but oh well).
+date: '2003-01-15T10:12:02Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

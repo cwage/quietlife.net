@@ -1,0 +1,16 @@
+name: Carlos Konstanski
+body: You forgot a big one. No worries; I'll mention it. Debian uses a vanilla kernel,
+  and no one will poo-poo you if you build a custom one. With redhat, building your
+  own kernel is unsupported. Even though a custom kernel may be just what the doctor
+  ordered, the fear of no support will make most pointy-haired bosses flinch and writhe,
+  even though no one calls redhat support except to get licensing issues straightened
+  out. Since there is no coprorate support contract with debian, there is nothing
+  lost when something "unsupportable" is done. You are still physically able to build
+  a redhat custom kernel, as long as they continue to supply the sources. But they
+  could cut you off at any time. Debian kernel sources, being as vanilla as they come,
+  will always be available. I ask you, which of these distros truly supports their
+  users? Is support defined as "I can call a tech, who will make me jump through hoops
+  and spend days chasing my tail", or "I can get answers to my issues on google 99.99%
+  of the time, with no hold music"?
+date: '2006-10-04T00:52:33Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

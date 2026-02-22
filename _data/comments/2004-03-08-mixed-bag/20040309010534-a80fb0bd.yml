@@ -1,0 +1,17 @@
+name: cwage
+body: |-
+  > *I have had decent success with your daily kos diaries feed. BTW, what do you use as a reader? I've been using feeddemon, but my trial is expiring and I wanted to get an idea of the open source ones that are out there.*
+
+  I use [feeds on feeds](http://minutillo.com/steve/feedonfeeds/ "http://minutillo.com/steve/feedonfeeds/"), which is pretty nice. It's server-side, though, and requires PHP and mysql.
+
+  I like having access to my feeds wherever i go, so a web-based solution is ideal for me.
+
+  What this particular package is missing the most, I think is categorization. I have added a few tweaks of my own to the code-base, but categorization would take a bit more than I have time to screw with.
+
+  But, check it out.. It's pretty nice.
+
+  There's also the [much crappier one](http://chris.quietlife.net/archives/000362.html "http://chris.quietlife.net/archives/000362.html") that I wrote that some people seem to have liked.
+
+  But, when even the developer of a package doesn't use it anymore, you know it's wise to stay away.
+date: '2004-03-09T01:05:34Z'
+slug: 2004-03-08-mixed-bag

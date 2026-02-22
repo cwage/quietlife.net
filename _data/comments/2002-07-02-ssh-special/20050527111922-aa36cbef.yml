@@ -1,0 +1,13 @@
+name: koitsu
+body: |-
+  Nice solution, except it's broken in one very major respect:
+
+  If you log in twice into the same machine that .profile is set up on, you'll clobber the /tmp/ssh-agent-sock-screen symlink
+  which points to the first existing agent sessions' socket.
+
+  You then get to manually figure out what agent is what (since they're all mindlessly stored in /tmp with semi-unique identifiers),
+  figure out which is the original (from your first ssh session to the machine), and re-setup the symlinks.
+
+  I go through this on a regular basis, and, needless to say, it's bloody annoying. :-)
+date: '2005-05-27T11:19:22Z'
+slug: 2002-07-02-ssh-special

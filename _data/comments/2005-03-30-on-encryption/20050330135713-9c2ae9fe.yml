@@ -1,0 +1,24 @@
+name: Scavenger
+body: |-
+  You say "So anyway, it seems to me that there are a billion secure web
+  databases, and in fact I use one pretty much every time I order anything from
+  nearly anybody on the Internet. So how hard could it be?"
+  You say "What happens if you set up a wiki on a server with ssl? I don't know
+  jack about web stuff. Have it check your passphrase by digesting it and
+  comparing your digest to the stored digest, as humans have done since the
+  beginning of time, then let you on in!"
+  You say "as they say on tha Intarweb, 'WALLA!'"
+  You say "Use a SHA-512 digest to be really hip, of course"
+  You say "ah but I suppose that wouldn't necessarily encrypt the data on the
+  server"
+  You say "so some programming would be required"
+  You say "I wonder if databases have built-in encryption. Instead of checking
+  your passphrase to allow you access, it could use the digest as the encryption
+  key (non-symmetric). That way it wouldn't be stored on the server at all."
+  You say "I see here MySQL does indeed have some (sort of outdated) encryption
+  functions. AES and SHA-1. How quaint. Anyway, you could just give it your
+  passphrase and have it perform a SHA-1 hash on it, then use the first (or last,
+  or best yet, middle) 128 bits of the hash as an AES key. "
+  You say "Stick a fork in yourself. You're done.
+date: '2005-03-30T13:57:13Z'
+slug: 2005-03-30-on-encryption

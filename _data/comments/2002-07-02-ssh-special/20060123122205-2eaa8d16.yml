@@ -1,0 +1,28 @@
+name: PCrazee
+body: |-
+  Nice idea, but what happens if you open two ssh-sessions? Or what happens if you connect from a Box without ssh-agent? That's why I have written a litte startup-script, where you get asked if you want to change the link or not:
+
+  #!/bin/sh
+  if [ -z $SSH\_AUTH\_SOCK ]; then
+   echo "NO \$SSH\_AUTH\_SOCK found... attatching without change... (Press ENTER)"
+   read line
+   screen -r
+   else
+   echo $SSH\_AUTH\_SOCK
+   ls -l /tmp/ssh-agent-sock-screen
+   echo "Renew the ssh-agent-sock-screen? (Y/n)"
+   read line
+   if [ "$line" = "y" ] || [ "$line" = "Y" ] || [ -z "$line" ]; then
+   rm /tmp/ssh-agent-sock-screen
+   ln -s `echo $SSH\_AUTH\_SOCK` /tmp/ssh-agent-sock-screen
+   screen -r
+   elif [ "$line" = "n" ] || [ "$line" = "N" ]; then
+   screen -r
+   else
+   exit 0
+   fi
+  fi
+
+  I hope some ppl out there like and use it... ;)
+date: '2006-01-23T12:22:05Z'
+slug: 2002-07-02-ssh-special

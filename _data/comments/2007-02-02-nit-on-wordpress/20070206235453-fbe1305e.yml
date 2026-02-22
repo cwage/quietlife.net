@@ -1,0 +1,7 @@
+name: Empresa Peruana
+body: No, I'm not NIT's webmaster, but when you state that the PHP/MySQL combination
+  is "infinitely slower", you are sorely mistaken. Most likely, their webhost server
+  IS the culprit. If I can render a page using PHP/MySQL in under 0.03 seconds on
+  my host, then, why can't it work in theirs? Just some food for thought... ;)
+date: '2007-02-06T23:54:53Z'
+slug: 2007-02-02-nit-on-wordpress

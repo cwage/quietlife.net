@@ -1,0 +1,6 @@
+name: require this
+body: |-
+  for those of us who don't have the luxury of running linux at work:
+  for the time being, you can setup clamscan.exe as a scheduled task. there is a section in the manual.pdf that is installed with ClamWin (in the bin directory for some reason) that contains a section called "Running a Virus Scan from the Command Line"
+date: '2005-04-29T13:16:00Z'
+slug: 2005-04-18-clamwin

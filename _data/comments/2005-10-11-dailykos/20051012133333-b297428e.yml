@@ -1,0 +1,11 @@
+name: Ravenwood
+body: |-
+  I don’t read Kos, but I checked it out and they appear to have user profile pages for registered users. Picking a few random user profile pages, you can see that they publish the email address on the page:
+
+  [http://www.dailykos.com/use...](http://www.dailykos.com/user/uid:40885 "http://www.dailykos.com/user/uid:40885")
+
+  A spambot probably saw the page and harvested the address.
+
+  That is why Ravenwood’s Universe does not publish ANY email addresses. When my commenters leave their email address it is stored in the database but NEVER published to any of the web pages.
+date: '2005-10-12T13:33:33Z'
+slug: 2005-10-11-dailykos

@@ -1,0 +1,7 @@
+name: Doug Orleans
+body: Small world. Actually Volity doesn't do any file transfer via XMPP, someone
+  just got confused while skimming threads on the developer forum. We pass around
+  URLs for files and use whatever protocol is in the URL to transfer (http, ftp, etc).
+  (Is there an "xmpp:" protocol yet?)
+date: '2004-08-27T20:26:11Z'
+slug: 2004-08-27-xmpp-file-transfer

@@ -1,0 +1,7 @@
+name: steve
+body: |-
+  Can anyone post up a copy of mod\_access\_rbl? I can't download it because blars is so overly aggressive blocking IPs.. I have comcast cable modem at home and can't d/l it.. and for whatever reason, my colo provider where my website is is also blocked by blars (but it's kosher, no spam, definitely not an open relay, and not on SPEWS or other lists.. what the heck?!)..
+
+  Any help would be greatly appreciated... I'd like to get this installed as I'm currently getting killed by referer spam...
+date: '2005-06-24T01:16:50Z'
+slug: 2005-01-16-referrer-b-gone

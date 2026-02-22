@@ -1,0 +1,7 @@
+name: julius
+body: |-
+  One thing about Chrome that I actually have found useful is that each tab is separately threaded (or whatever the technical term is) so when one crashes, it doesn't take down the whole browser. My Firefox session at work dies ALL THE TIME thanks to some webpage killing one tab. I would desperately love to use Chrome at work, but ... you know how it goes.
+
+  Chrome appears to use more memory than Firefox, although I haven't done any rigorous tests.
+date: '2009-12-11T02:55:01Z'
+slug: 2009-12-10-google-chrome-first-impressions

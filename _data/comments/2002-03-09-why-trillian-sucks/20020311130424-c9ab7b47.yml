@@ -1,0 +1,9 @@
+name: fozbaca
+body: All is not as dismal in the Jabber world. There are not Java and Python servers
+  that are OpenSource. There are 2 Win32 servers, one comercial and one which is Jabberd
+  (the main Linux server) running in Cygwin. So there is lots of development actively
+  going on. The real problem with Jabber is getting Buisnesses to run public servers
+  and to allow Server2Server communication. Many companies, so I have heard, are running
+  Jabber servers, kinda how Linux boxes entered the Enterprise. Now to get them talking.
+date: '2002-03-11T13:04:24Z'
+slug: 2002-03-09-why-trillian-sucks

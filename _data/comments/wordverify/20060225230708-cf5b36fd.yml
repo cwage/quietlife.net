@@ -1,0 +1,5 @@
+name: cwage
+body: I'll check into it.. I threw in some stripslashes() depending on whether or
+  not magic quotes were on as an afterthought, but I didn't test it extensively..
+date: '2006-02-25T23:07:08Z'
+slug: wordverify

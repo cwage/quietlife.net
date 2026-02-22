@@ -1,0 +1,8 @@
+name: Toby Richards
+body: 'PERFORMANCE: Are there performance differences between Debian and Fedora (in
+  terms of CPU & RAM utilization)? I see all kinds of nifty little Debian based distros
+  like Knoppix, DSL and the like. RH/Fedora seems more bloated (trying to make a "small"
+  installation seems nearly impossible). The natural assumption is uses more HD =
+  uses more RAM = slower. But is there any data to support this?'
+date: '2005-03-08T14:51:19Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison
