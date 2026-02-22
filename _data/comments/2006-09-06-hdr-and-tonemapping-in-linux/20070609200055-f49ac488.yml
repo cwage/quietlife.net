@@ -1,0 +1,10 @@
+name: Jan
+body: |-
+  Hi Chris, thanks for this very enlightening introduction!
+  I am using qtpfsgui now, since I think it uses the same algorithms as pfstools. But I have a question:
+  You said, the fattal algorithm (or similar) is used in the well known software tools producing these surreal or hyperrealistic effects. When I try this algorithm with a blue sky and some clouds, all colors appear very neatly, except for the blue, which always appears as a mixture of black and grey. Images I know from software like Photomatix have very intense blue colors. Now, my question is of course: Am I doing something wrong? Have you made a similar experience? Or is it still a different algorithm?
+
+  Thanks, any help is appreaciated!
+  Jan
+date: '2007-06-09T20:00:55Z'
+slug: 2006-09-06-hdr-and-tonemapping-in-linux

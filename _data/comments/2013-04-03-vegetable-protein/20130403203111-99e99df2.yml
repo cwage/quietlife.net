@@ -1,0 +1,7 @@
+name: Kate O'Neill
+body: |-
+  I see how they arrived at the 49% for spinach. In the USDA listing for raw spinach ([http://ndb.nal.usda.gov/ndb...](http://ndb.nal.usda.gov/ndb/foods/show/3151?fg=Vegetables+and+Vegetable+Products&man=&lfacet=&format=&count=&max=25&offset=&sort=&qlookup=spinach) "http://ndb.nal.usda.gov/ndb/foods/show/3151?fg=Vegetables+and+Vegetable+Products&man=&lfacet=&format=&count=&max=25&offset=&sort=&qlookup=spinach)"), it shows that there are 23 kilocalories of energy and 2.86 g of protein per 100 g. Since the energy density of protein is 4 kcal/gram, they would have multiplied 2.86 g of protein by 4 kcal/gram to get 11.44 kilocalories, and then divided that into 23 kilocalories to get .497, or 49.7% of the kilocalories represented are from protein.
+
+  Having said that, though, I haven't validated the rest of the list, so I cannot vouch for the relative percentages.
+date: '2013-04-03T20:31:11Z'
+slug: 2013-04-03-vegetable-protein

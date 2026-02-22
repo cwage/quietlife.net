@@ -1,0 +1,11 @@
+name: William Teach
+body: |-
+  Interesting plugin, but I am getting these errors:
+
+  Warning: Unexpected character in input: '\' (ASCII=92) state=1 in /home/.aska/ncdevilc/[thepiratescove.us/wp-conten...](http://thepiratescove.us/wp-content/plugins/wordverify.php "thepiratescove.us/wp-content/plugins/wordverify.php") on line 2
+
+  Parse error: syntax error, unexpected T\_STRING in /home/.aska/ncdevilc/[thepiratescove.us/wp-conten...](http://thepiratescove.us/wp-content/plugins/wordverify.php "thepiratescove.us/wp-content/plugins/wordverify.php") on line 2
+
+  Any ideas?
+date: '2006-07-20T18:39:42Z'
+slug: wordverify

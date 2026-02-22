@@ -1,0 +1,13 @@
+name: Johan Weetniet
+body: |-
+  GREAT!!!
+
+  I had this problem for a longer time since upgrading to something else then 98a.
+
+  I run icq on a windows client, and it passes with NAT and ipMASQ via a linux pc with firewall to the outside world.
+
+  Now I tried your trick, because it almost could not be the firewall because forwarding was good and in irc/dcc I had no problems either.
+
+  Trick worked, ICQ file transfers are working for me too again! Thanks!
+date: '2002-09-20T18:39:27Z'
+slug: 2002-03-09-icq-2001b-and-nat

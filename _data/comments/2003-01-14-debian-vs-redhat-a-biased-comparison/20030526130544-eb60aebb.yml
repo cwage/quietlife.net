@@ -1,0 +1,35 @@
+name: Kris Deugau
+body: |-
+  I have to agree that RedHat seems to be moving
+  out of the cheap server market. With their new
+  policy of only releasing updates for their
+  "regular" releases for a year after release, it
+  means you can't easily keep a server (or set of
+  servers) up to date for much longer than a year.
+
+  I'd like to point out that Linux is NOT Linux; a
+  familiar "standard" utility on RedHat may be a
+  real pain to find anywhere on Debian. Or
+  Mandrake. Or SuSE. (etc) This is one of the
+  main reasons I've stuck with RedHat.
+
+  The other few reasons are:
+  -> Install headaches. I'll try some of the
+   suggestions here; I'm hoping I can make use
+   of jigdo under RedHat. I bought a "full"
+   (8-CD) set for Debian several months ago...
+   CD #1 never booted on anything I tried it on.
+   To be fair, RH8's install CD didn't boot very
+   well on much of anything either. RH9,
+   however, installed absolutely without pain on
+   my Toshiba laptop.
+  -> apt problems:
+   - what is program {x} called in the Debian world?
+   - I need x, but absolutely CANNOT run one of its
+   requirements y.
+
+  As for Apache: The ONLY two places I've ever
+  seen it on a standard RedHat box are /home/httpd
+  (=7.0).
+date: '2003-05-26T13:05:44Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

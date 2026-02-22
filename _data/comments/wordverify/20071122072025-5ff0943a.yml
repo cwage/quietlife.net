@@ -1,0 +1,7 @@
+name: diuternity
+body: Hello but I'm wondering does this plugin enter the settings in the database
+  once setup? Can the codeword/setttings be hand coded instead of having to set it
+  up? I ask because i'm musing MU and tossing this in the MU plugin folder doesn't
+  work. Thanks for any advice.
+date: '2007-11-22T07:20:25Z'
+slug: wordverify

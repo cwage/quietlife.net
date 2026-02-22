@@ -1,0 +1,7 @@
+name: cwage
+body: |-
+  Yeah, I have been playing with cinepaint's HDR generation (now that I have binaries that can do it -- compiling then was an unsuccessful venture)..
+
+  One thing that sucks though is that cinepaint can't do HDR generation directly from 16-bit source images (yet).. I wonder when that will get added..
+date: '2006-09-13T13:46:00Z'
+slug: 2006-09-06-hdr-and-tonemapping-in-linux

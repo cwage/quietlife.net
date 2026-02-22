@@ -1,0 +1,21 @@
+name: arclight
+body: |-
+  Both my Wordpress and MT installations have been getting pummelled by referer spam over the last few days. I've learned from ~8 years of fighting email spam is that playing whack-a-mole with domain names and IP addresses does not scale and that operating an effective public DNSBL invites lawsuits and DDoS attacks.
+
+  Considering that bleak backdrop, I offer the following project:
+
+  Set up a local pair of DNSBLs (one traditional IP blacklist to track spam sources, and one RHSBL to track spammed domains) using rbldnsd (see [http://www.corpit.ru/mjt/rb...](http://www.corpit.ru/mjt/rbldnsd.html "http://www.corpit.ru/mjt/rbldnsd.html") and [http://www.surbl.org/rbldns...](http://www.surbl.org/rbldnsd-howto.html) "http://www.surbl.org/rbldnsd-howto.html)")
+
+  Obtain abusive source addresses and domains from logs (webserver, firewall, application/blog/wiki, etc.), and store in a database along with a time-to-live metric. This implies having a local listing and expiry policy.
+
+  Generate rbldnsd zone files and other blacklists from the database. Periodically expire old entries but save them for historical analysis.
+
+  This is all well and good for a single site, especially if the DNSBLs are not exposed to the general public. The real value is allowing blacklist information to be shared in a robust, secure, anonymous, trusted manner, e.g., via an application such as Freenet ([http://freenet.sourceforge....](http://freenet.sourceforge.net/) "http://freenet.sourceforge.net/)")
+
+  Much of the necessary technology already exists and is mature; the difficulty is in integrating the pieces, building tools to simplify data analysis, policy enforcement, and information sharing, and developing a trust model in which some participants may choose to remain anonymous (this is a hard problem - see [http://www.cl.cam.ac.uk/Res...](http://www.cl.cam.ac.uk/Research/SRG/opera/projects/secure/) "http://www.cl.cam.ac.uk/Research/SRG/opera/projects/secure/)")
+
+  Not that all this needs to be implemented at once or at every site. The goal is to distribute the effort specifically to allow every casual blogger to take advantage of the results without requiring them to be a DBA/network admin/spamfighter.
+
+  Admittedly, it's a big project but one that I believe is achievable.
+date: '2005-02-14T17:51:46Z'
+slug: 2005-01-16-referrer-b-gone

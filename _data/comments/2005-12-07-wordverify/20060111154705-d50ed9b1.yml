@@ -1,0 +1,10 @@
+name: moonchild
+body: |-
+  Hy there, I get the following error when NOT typing the correct codeword:
+   `Fatal error: Call to undefined function: wp_delete_comment() in /var/www/web183/html/wordpress/wp-content/plugins/verify.php on line 155`
+
+  However, the comment is still postet although I've entered the wrong code.
+  When typing the correct codeword everything is fine...
+  Does anyone have an idea? Thanks in advance.
+date: '2006-01-11T15:47:05Z'
+slug: 2005-12-07-wordverify

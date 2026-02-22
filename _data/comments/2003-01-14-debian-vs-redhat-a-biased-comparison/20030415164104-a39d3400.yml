@@ -1,0 +1,7 @@
+name: PJ
+body: |-
+  How to overcome debian's install process: Libranet
+
+  Libranet is a debian-based distribution replete with nice installer, etc, etc. They provide their own repository, but switching to 'pure' debian is as simple as updating apt-get's sources and doing a dist-upgrade.
+date: '2003-04-15T16:41:04Z'
+slug: 2003-01-14-debian-vs-redhat-a-biased-comparison

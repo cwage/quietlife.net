@@ -1,0 +1,6 @@
+name: Ravi d
+body: |-
+  Here is the error i get. What do i need to do?
+  Fatal error: Cannot redeclare class in /var/www/html/dronamraju/blog/wp-admin/admin.php on line 63
+date: '2006-07-19T22:27:36Z'
+slug: wordverify

@@ -1,0 +1,15 @@
+name: Chris Wage
+body: |-
+  > I think a better analogy would be to try to combat e-mail spam by telling people not to read their e-mail. If people didn't read their e-mail, then yes, sending spam e-mails would be pointless. Similarly, if people didn't publish their referrer logs, sending referrer spam would be pointless.
+
+  Well, I for one have stopped publishing any referrer info (or indeed, any website stats at all), but I'm not optimistic this strategy will help much.
+
+  Seeing the occasional forged referrer in my logs these days is water off my back -- I'm resigned to it.
+
+  What I'm really hoping to stop is floods on a scale such as to DoS my site like I've experienced in the past.
+
+  Response time is affected, but not much for normal usage. The query responses are cached by my local nameserver on the same network, so the most someone would notice is a slight delay on the first load of the page.
+
+  Spammers using a botnet of zombies would notice a delay for every new IP they use, which, well, is fine by me, and hopefully it's followed by a 403!
+date: '2005-01-17T00:16:55Z'
+slug: 2005-01-16-referrer-b-gone

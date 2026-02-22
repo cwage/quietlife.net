@@ -1,0 +1,9 @@
+name: Stan
+body: |-
+  Wow, that is quite a puzzler. Let's see... hmm.
+
+  Try resetting your CMOS and then choosing safe values -- disable performance options. Try underclocking your CPU/FSB and/or PCI. Try increasing the voltage to CPU and/or RAM, if the BIOS allows.
+
+  Could something very odd be happening with your mains power? Undervoltage? How is the ground? If the humidity is very low, you could have static (ESD) problems and could have zapped new component(s) in the course of the experiments.
+date: '2005-03-03T01:51:22Z'
+slug: 2005-02-14-help

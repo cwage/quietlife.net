@@ -1,0 +1,8 @@
+name: proxy
+body: |-
+  Have you tried OpenVPN? I just got through setting it up on my network.
+  It works really well. Setup can be a little hairy,
+  but I found a quickstart tutorial on the web and got everything squared away in about an hour.
+  It also has a lot of functionality (complexity) if you need to go down that road.
+date: '2009-02-20T23:26:20Z'
+slug: 2004-07-17-ssl-vpn
