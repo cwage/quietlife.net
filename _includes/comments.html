@@ -15,24 +15,59 @@
   <p>No comments yet.</p>
 {% endif %}
 
+<div id="comment-submitted" class="comment-notice">
+  <p>Thanks! Your comment has been submitted and will appear shortly.</p>
+</div>
+
 <hr>
 <h3>Leave a comment</h3>
-<form class="comment-form" method="POST" action="https://staticomment.quietlife.net/comment">
+<form class="comment-form" id="comment-form-main" method="POST" action="https://staticomment.quietlife.net/comment">
   <input type="hidden" name="slug" value="{{ slug }}">
   <input type="hidden" name="url" value="{{ page.url | absolute_url }}">
+  <input type="hidden" name="reply_to" value="">
   <p>
-    <label for="comment-name">Name</label><br>
-    <input type="text" id="comment-name" name="name" required>
+    <label>Name<br>
+    <input type="text" name="name" required></label>
   </p>
   <p>
-    <label for="comment-email">Email (optional, not displayed)</label><br>
-    <input type="email" id="comment-email" name="email">
+    <label>Email (optional, not displayed)<br>
+    <input type="email" name="email"></label>
   </p>
   <p>
-    <label for="comment-body">Comment</label><br>
-    <textarea id="comment-body" name="body" rows="6" required></textarea>
+    <label>Comment<br>
+    <textarea name="body" rows="6" required></textarea></label>
   </p>
   <p>
     <button type="submit">Submit comment</button>
+    <button type="button" class="comment-reply-cancel" style="display:none;" onclick="cancelReply()">Cancel</button>
   </p>
 </form>
+
+<script>
+document.addEventListener("click", function(e) {
+  var link = e.target.closest(".comment-reply-link");
+  if (!link) return;
+  e.preventDefault();
+  var id = link.getAttribute("data-comment-id");
+  var form = document.getElementById("comment-form-main");
+  var container = document.getElementById("reply-form-" + id);
+  // Move the form into the reply container
+  container.appendChild(form);
+  container.style.display = "block";
+  form.querySelector("[name=reply_to]").value = id;
+  form.querySelector(".comment-reply-cancel").style.display = "";
+  form.querySelector("[name=body]").focus();
+});
+
+function cancelReply() {
+  var form = document.getElementById("comment-form-main");
+  var heading = document.querySelector("h3:last-of-type");
+  // Move form back to bottom
+  heading.parentNode.insertBefore(form, heading.nextSibling);
+  form.querySelector("[name=reply_to]").value = "";
+  form.querySelector(".comment-reply-cancel").style.display = "none";
+  // Hide the old container
+  var containers = document.querySelectorAll(".comment-reply-form");
+  containers.forEach(function(c) { c.style.display = "none"; });
+}
+</script>
