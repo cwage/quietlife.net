@@ -5,9 +5,12 @@
     {% if include.comment.reply_to %}
       &middot; in reply to <a href="#comment-{{ include.comment.reply_to }}">{{ include.comment.reply_to }}</a>
     {% endif %}
+    &middot; <a href="#" class="comment-reply-link" data-comment-id="{{ include.comment_id }}">reply</a>
   </div>
   <div class="comment-body">
     {{ include.comment.body | markdownify }}
+  </div>
+  <div class="comment-reply-form" id="reply-form-{{ include.comment_id }}" style="display:none;">
   </div>
   {% for reply_hash in site.data.comments[include.slug] %}
     {% assign reply_id = reply_hash[0] %}
