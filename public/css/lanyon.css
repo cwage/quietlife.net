@@ -615,3 +615,23 @@ a.pagination-item:hover {
 .comment-body p:last-child {
   margin-bottom: .5rem;
 }
+
+.comment-form input[type="text"],
+.comment-form input[type="email"] {
+  width: 100%;
+  max-width: 20rem;
+  padding: .4rem .5rem;
+  font-size: .9rem;
+}
+
+.comment-form textarea {
+  width: 100%;
+  padding: .4rem .5rem;
+  font-size: .9rem;
+}
+
+.comment-form button {
+  padding: .5rem 1.2rem;
+  font-size: .9rem;
+  cursor: pointer;
+}
