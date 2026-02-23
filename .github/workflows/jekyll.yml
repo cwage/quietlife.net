@@ -2,6 +2,8 @@ name: Jekyll site CI
 
 on:
   push:
+    paths-ignore:
+      - '_data/comments/**'
   workflow_dispatch:
 
 jobs:
