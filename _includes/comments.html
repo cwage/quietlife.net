@@ -14,3 +14,25 @@
 {% else %}
   <p>No comments yet.</p>
 {% endif %}
+
+<hr>
+<h3>Leave a comment</h3>
+<form class="comment-form" method="POST" action="https://staticomment.quietlife.net/comment">
+  <input type="hidden" name="slug" value="{{ slug }}">
+  <input type="hidden" name="url" value="{{ page.url | absolute_url }}">
+  <p>
+    <label for="comment-name">Name</label><br>
+    <input type="text" id="comment-name" name="name" required>
+  </p>
+  <p>
+    <label for="comment-email">Email (optional, not displayed)</label><br>
+    <input type="email" id="comment-email" name="email">
+  </p>
+  <p>
+    <label for="comment-body">Comment</label><br>
+    <textarea id="comment-body" name="body" rows="6" required></textarea>
+  </p>
+  <p>
+    <button type="submit">Submit comment</button>
+  </p>
+</form>

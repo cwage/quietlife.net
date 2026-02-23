@@ -6,11 +6,10 @@ permalink:           pretty
 # Setup
 title:               quietlife.net
 description:         'What we honor as prudence in our elders is simply panic in action.'
-url:                 http://quietlife.net
+url:                 https://quietlife.net
 baseurl: /
 paginate:            5
 plugins: [jekyll-paginate, jekyll-commonmark]
-url: "http://quietlife.net" # the base hostname & protocol for your site
 include: [".well-known", "images"]
 
 # Markdown
