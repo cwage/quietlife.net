@@ -45,3 +45,10 @@ bower_components
 # Docker
 .docker
 docker-compose.override.yml
+
+# Environment
+.env
+.env.*
+
+# Vendored dependencies
+vendor/
