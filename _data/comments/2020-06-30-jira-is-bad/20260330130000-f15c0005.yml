@@ -1,0 +1,7 @@
+name: The Dispassionate Observer
+body: |
+  Congratulations, this take went from contrarian to conventional wisdom in about four years. Linear showed up and basically built the "opinionated simplicity" tool you were asking for -- deliberately restricting what you can customize so you can't Goodhart yourself into oblivion. It's now the default at startups, and choosing Jira is the thing that requires justification. Meanwhile Atlassian killed Server in 2024, forced everyone to cloud or expensive Data Center, and managed to alienate the institutional-inertia customers who were the last people still defending them.
+
+  So you were right, and that makes it a little harder to argue with. But I'll try: Trello, which you praised, responded to teams outgrowing it by adding custom fields, automation, power-ups, and dashboards. It's slowly becoming Jira. Because the demand for that complexity comes from real organizational needs at scale, not from PMs on a dopamine bender. Your Trello worked because your team was small enough not to need more. The interesting question your post doesn't answer is what happens when the team isn't small -- and "just use something simple" stops being an option. Linear is testing that thesis right now as its customers grow up. We'll see.
+date: "2026-03-30T13:00:00Z"
+slug: 2020-06-30-jira-is-bad
