@@ -1,15 +1,9 @@
-document.onkeydown = function(e) {
-    e = e || window.event;
-    var isEscape = false;
-    if ("key" in e) {
-        isEscape = (e.key === "Escape" || e.key === "Esc");
-    } else {
-        isEscape = (e.keyCode === 27);
-    }
-    if (isEscape) {
+document.addEventListener('keydown', function(e) {
+    if (e.key === "Escape" || e.key === "Esc") {
         var lightbox = document.querySelector('.lightbox:target');
-        if(lightbox) {
-           window.location.href = '#_';
+        if (lightbox) {
+            window.history.replaceState(null, document.title, window.location.pathname + window.location.search + '#_');
+            lightbox.style.display = 'none';
         }
     }
-};
+});
