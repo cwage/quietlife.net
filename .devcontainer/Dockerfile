@@ -47,10 +47,7 @@ RUN apt-get update \
     && chown -R $USERNAME:$USERNAME /workspaces \
     #
     # Install gosu for entrypoint privilege-dropping
-    && dpkgArch="$(dpkg --print-architecture)" \
-    && curl -fsSL "https://github.com/tianon/gosu/releases/download/1.17/gosu-$dpkgArch" -o /usr/local/bin/gosu \
-    && chmod +x /usr/local/bin/gosu \
-    && gosu --version \
+    && apt-get -y install gosu \
     #
     # Clean up
     && apt-get autoremove -y \
