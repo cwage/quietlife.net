@@ -3,7 +3,6 @@ services:
     build:
       context: .
       dockerfile: .devcontainer/Dockerfile
-    user: "1000:1000"
     volumes:
       - .:/workspaces/quietlife.net
     working_dir: /workspaces/quietlife.net
@@ -12,4 +11,4 @@ services:
     environment:
       - BUNDLE_PATH=vendor/bundle
     command: >
-      bash -c "bundle install --local && bundle exec jekyll serve --host 0.0.0.0 --livereload --future"
+      bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload --future"
