@@ -46,6 +46,12 @@ RUN apt-get update \
     && mkdir -p /workspaces \
     && chown -R $USERNAME:$USERNAME /workspaces \
     #
+    # Install gosu for entrypoint privilege-dropping
+    && dpkgArch="$(dpkg --print-architecture)" \
+    && curl -fsSL "https://github.com/tianon/gosu/releases/download/1.17/gosu-$dpkgArch" -o /usr/local/bin/gosu \
+    && chmod +x /usr/local/bin/gosu \
+    && gosu --version \
+    #
     # Clean up
     && apt-get autoremove -y \
     && apt-get clean -y \
@@ -60,3 +66,6 @@ ENV LANG en_US.UTF-8
 
 # Switch back to dialog for any ad-hoc use of apt-get
 ENV DEBIAN_FRONTEND=dialog
+
+COPY scripts/docker-entrypoint.sh /usr/local/bin/
+ENTRYPOINT ["docker-entrypoint.sh"]
