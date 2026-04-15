@@ -13,7 +13,7 @@ categories:
 - repo: https://github.com/cwage/whoarewe
 - OSS: MIT license
 - It's not on the play store, and probably never will be, unless I can convince a handful of friends and family to at least try it, much less use it.
-- To try it: download the [signed APK from the releases](https://github.com/cwage/whoarewe/releases) on the above github repo and either enable "Install unknown apps" in your Android settings and open it, or sideload it with adb install. If you don't trust this (as you shouldn't), but maybe kind trust me, you can clone the repo, inspect the code and build it yourself. Have clippy review it!
+- To try it: download the [signed APK from the releases](https://github.com/cwage/whoarewe/releases) on the above github repo and either enable "Install unknown apps" in your Android settings and open it, or sideload it with adb install. If you don't trust this (as you shouldn't), but maybe kind of trust me, you can clone the repo, inspect the code and build it yourself. Have clippy review it!
 
 ## The problem
 
