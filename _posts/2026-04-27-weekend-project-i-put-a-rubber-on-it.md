@@ -34,7 +34,7 @@ Using these tools without guardrails is incredibly impressive. Being able to fir
 - **filesystem isolation** -- `$HOME` is a fresh tmpfs and the project directory is bind-mounted in writable. that's it. the agent can't see your `~/.ssh`, `~/.aws`, `~/.gnupg`, or anything else in your real home
 - [**pasta**](https://passt.top/) + [**nftables**](https://netfilter.org/projects/nftables/) -- user-space networking inside the namespace, with an nftables ruleset that blackholes the default route. no raw outbound connections.
 - **SNI-sniffing TCP proxy** -- the only way out. a host-side loopback proxy peeks at the TLS SNI and only forwards connections to hostnames on an allowlist. no TLS interception, no CA shenanigans -- just "is `api.anthropic.com` on the list? ok, proxy it." IP literals and loopback names are refused so the agent can't trivially bypass it.
-    - [**NixOS**](https://nixos.org/) / FHS auto-detection -- because I run NixOS on my laptop and a normal FHS distro everywhere else (for now anyway), it identifies which kind of machine it's on and picks the right binary paths.
+- [**NixOS**](https://nixos.org/) / FHS auto-detection -- because I run NixOS on my laptop and a normal FHS distro everywhere else (for now anyway), it identifies which kind of machine it's on and picks the right binary paths.
 
 ### where?
 
