@@ -36,7 +36,7 @@ Using these tools without guardrails is incredibly impressive. Being able to fir
 
 ### where?
 
-As metioned, the tool works as easily in ubuntu/FHS type distributions, but with my NixOS laptop, I was able to [implement and encourage its use](https://github.com/cwage/nix-workstation/pull/35). A prefix to invoke the wrapper is nice, but I'm lazy and forgetful, so simply making it the default will help me a lot. Running `claude` or `codex` now calls the agentpen wrapper by default. I wanted to retain the flexibility to *actually* run claude or codex in `--dangerously-skip-permissions` mode, but to do that now i have to explicitly call `claude-raw` or `codex-raw`.
+As mentioned, the tool works as easily in ubuntu/FHS type distributions, but with my NixOS laptop, I was able to [implement and encourage its use](https://github.com/cwage/nix-workstation/pull/35). A prefix to invoke the wrapper is nice, but I'm lazy and forgetful, so simply making it the default will help me a lot. Running `claude` or `codex` now calls the agentpen wrapper by default. I wanted to retain the flexibility to *actually* run claude or codex in `--dangerously-skip-permissions` mode, but to do that now i have to explicitly call `claude-raw` or `codex-raw`.
 
 ### the result
 
