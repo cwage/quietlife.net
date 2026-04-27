@@ -24,6 +24,8 @@ Using these tools without guardrails is incredibly impressive. Being able to fir
 
 6 months later, i figured it was time to swing the pendulum the other direction and see what it's like using these tools when you don't trust them *at all*. claude and codex both provide their own sandbox options (which is good!), but even they historically [haven't been foolproof](https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox) -- and anthropic's cli tool source is still weirdly obfuscated/not entirely OSS (despite being leaked). I wanted to build something that doesn't really trust anyone involved -- much like you'd sandbox actively malicious code (sortof).
 
+<!--more-->
+
 ### how?
 
 - [**bubblewrap**](https://github.com/containers/bubblewrap) -- the actual sandbox launcher. handles user namespaces, mount namespaces, all the `unshare(2)` stuff so we don't have to shell out to `unshare` and `mount` ourselves.
