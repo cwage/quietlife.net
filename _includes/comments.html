@@ -37,11 +37,17 @@
     <label>Comment<br>
     <textarea name="body" rows="6" required></textarea></label>
   </p>
+  {% if site.turnstile_sitekey %}
+  <div class="cf-turnstile" data-sitekey="{{ site.turnstile_sitekey }}"></div>
+  {% endif %}
   <p>
     <button type="submit">Submit comment</button>
     <button type="button" class="comment-reply-cancel" style="display:none;" onclick="cancelReply()">Cancel</button>
   </p>
 </form>
+{% if site.turnstile_sitekey %}
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+{% endif %}
 
 <script>
 document.addEventListener("click", function(e) {
