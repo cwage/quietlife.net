@@ -3,7 +3,7 @@
 # Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
 #-------------------------------------------------------------------------------------------------------------
 
-FROM ruby:3.0
+FROM ruby:3.3
 
 # Avoid warnings by switching to noninteractive
 ENV DEBIAN_FRONTEND=noninteractive
@@ -23,13 +23,9 @@ RUN apt-get update \
     && apt-get -y install git openssh-client iproute2 procps lsb-release \
     && apt-get -y install screen vim \
     #
-    # Install ruby-debug-ide and debase
-    && gem install ruby-debug-ide \
-    && gem install debase \
-    #
     # Install node.js
-    && apt-get -y install curl software-properties-common \
-    && curl -sL https://deb.nodesource.com/setup_18.x | bash - \
+    && apt-get -y install curl \
+    && curl -sL https://deb.nodesource.com/setup_22.x | bash - \
     && apt-get -y install nodejs \
     #
     # Create a non-root user to use if preferred - see https://aka.ms/vscode-remote/containers/non-root-user.

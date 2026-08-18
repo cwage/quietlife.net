@@ -1,2 +1,4 @@
-#!/bin/bash
-docker compose up --build
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")"
+docker compose up --build "$@"
