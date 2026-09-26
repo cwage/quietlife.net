@@ -42,21 +42,15 @@ The first was a happy discovery -- I had popped in [Who's Afraid of Virginia Woo
 
 The composer of the score to *Who's Afraid of Virginia Woolf* is Alex North, who is quickly joining the ranks of other composers I have a hard-on for. He's most famous probably for his scores to Spartacus, Cleopatra, and the infamous rejected score for Kubrick's [2001: A Space Odyssey][5]. The whole score is great, but by far the prelude and the epilogue are my favorites -- bookends containing the sum of his theme for the movie. Great, crisp, moody guitar overlaying a nice orchestral arrangement.
 
-<p class="audioplayer_container">
-  <span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_18">Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" title="Download Adobe Flash Player">here</a>. You also need to have JavaScript enabled in your browser.</span>
-</p>
+<audio controls src="/public/audio/Alex_North_Moon_Music.mp3" preload="none"></audio>
 
 Concurrently I also snagged a rather obscure album by Lalo Schifrin, called [There's A Whole Lalo Schifrin Goin On][6]. Released in 1968, it was just an album, not a film score. It contains a cool mix of stuff, including Schifrin's more trademark spy-ish 60's stuff, but what really caught my ear was this beauty called *Bride of the Wind*. I have probably listened to it around 18,432 times so far. If I could marry a guitar-sound, it'd be this one. Sadly, such marriages are still illegal in Tennessee.
 
-<p class="audioplayer_container">
-  <span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_19">Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" title="Download Adobe Flash Player">here</a>. You also need to have JavaScript enabled in your browser.</span>
-</p>
+<audio controls src="/public/audio/Lalo_Schifrin_Bride_of_the_Wind.mp3" preload="none"></audio>
 
 And last but not least, thrown in for good measure, is a healthy dose of Ennio Morricone. This is a beautiful track from his score to the 1978 movie "Il Gatto". I love it.
 
-<p class="audioplayer_container">
-  <span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_20">Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOW" title="Download Adobe Flash Player">here</a>. You also need to have JavaScript enabled in your browser.</span>
-</p>
+<audio controls src="/public/audio/Ennio_Morricone_L_Attico_Illuminato.mp3" preload="none"></audio>
 
 Happy moping!
 
