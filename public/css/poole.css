@@ -256,6 +256,21 @@ figure .thumbnail {
 .thumbnail.half {
   max-width: 50%;
 }
+/* Two videos side by side; stacks on narrow screens */
+figure.pair {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: .5rem;
+}
+figure.pair video {
+  flex: 1 1 45%;
+  min-width: 0;
+  margin: 0;
+}
+figure.pair figcaption {
+  flex-basis: 100%;
+}
 figure figcaption {
   margin-top: .5rem;
   padding: 0 1rem;
